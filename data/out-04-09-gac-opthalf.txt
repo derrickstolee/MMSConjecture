@@ -1,0 +1,3945 @@
+Constructing initial basis...
+Size of triangular part = 12
+glp_exact: 12 rows, 9 columns, 37 non-zeros
+GNU MP bignum library is being used
+      0:   infsum =                      3   (0)
+      7:   infsum =                      0   (0)
+*     7:   objval =                      2   (0)
+*     8:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 12
+glp_exact: 12 rows, 9 columns, 37 non-zeros
+GNU MP bignum library is being used
+      8:   infsum =                      3   (0)
+     15:   infsum =                      0   (0)
+*    15:   objval =                      2   (0)
+*    16:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 13
+glp_exact: 13 rows, 9 columns, 41 non-zeros
+GNU MP bignum library is being used
+     16:   infsum =                      3   (0)
+     23:   infsum =                      0   (0)
+*    23:   objval =                      2   (0)
+*    24:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 15
+glp_exact: 15 rows, 9 columns, 49 non-zeros
+GNU MP bignum library is being used
+     24:   infsum =                      4   (0)
+     31:   infsum =                      0   (0)
+*    31:   objval =                      2   (0)
+*    32:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 20
+glp_exact: 20 rows, 9 columns, 69 non-zeros
+GNU MP bignum library is being used
+     32:   infsum =                      8   (0)
+     49:   infsum =                      0   (0)
+*    49:   objval =                      2   (0)
+*    49:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 24
+glp_exact: 24 rows, 9 columns, 85 non-zeros
+GNU MP bignum library is being used
+     49:   infsum =                     11   (0)
+     67:   infsum =                      0   (0)
+*    67:   objval =                    3.4   (0)
+*    69:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 3
+S 0 4 0 0 0 0 
+optimal: 
+	x_{ 0} = 2.000000
+	x_{ 1} = 2.000000
+	x_{ 2} = 2.000000
+	x_{ 3} = 2.000000
+	x_{ 4} = 2.000000
+	x_{ 5} = 2.000000
+	x_{ 6} = -2.500000
+	x_{ 7} = -2.500000
+	x_{ 8} = -7.000000
+ with 55 non-negative sets (target: 56)
+
+-- getBranchOptHalf makes this inequality infeasible both ways!
+-- removing solution at depth 3
+Constructing initial basis...
+Size of triangular part = 16
+glp_exact: 16 rows, 9 columns, 53 non-zeros
+GNU MP bignum library is being used
+     69:   infsum =                      5   (0)
+     81:   infsum =                      0   (0)
+*    81:   objval =                      2   (0)
+*    82:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 18
+glp_exact: 18 rows, 9 columns, 61 non-zeros
+GNU MP bignum library is being used
+     82:   infsum =                      6   (0)
+     94:   infsum =                      0   (0)
+*    94:   objval =                      2   (0)
+*    96:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 21
+glp_exact: 21 rows, 9 columns, 73 non-zeros
+GNU MP bignum library is being used
+     96:   infsum =                      8   (0)
+    110:   infsum =                      0   (0)
+*   110:   objval =                      2   (0)
+*   111:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 22
+glp_exact: 22 rows, 9 columns, 77 non-zeros
+GNU MP bignum library is being used
+    111:   infsum =                      8   (0)
+    125:   infsum =                      0   (0)
+*   125:   objval =                      2   (0)
+*   126:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 25
+glp_exact: 25 rows, 9 columns, 89 non-zeros
+GNU MP bignum library is being used
+    126:   infsum =                     10   (0)
+    136:   infsum =                      0   (0)
+*   136:   objval =                      2   (0)
+*   136:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 27
+glp_exact: 27 rows, 9 columns, 97 non-zeros
+GNU MP bignum library is being used
+    136:   infsum =                     11   (0)
+    154:   infsum =                      0   (0)
+*   154:   objval =                      2   (0)
+*   154:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 29
+glp_exact: 29 rows, 9 columns, 105 non-zeros
+GNU MP bignum library is being used
+    154:   infsum =                     12   (0)
+    164:   infsum =                      0   (0)
+*   164:   objval =                      2   (0)
+*   164:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 31
+glp_exact: 31 rows, 9 columns, 113 non-zeros
+GNU MP bignum library is being used
+    164:   infsum =                     13   (0)
+    186:   infsum =                      0   (0)
+*   186:   objval =                      2   (0)
+*   190:   objval =                      2   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 35
+glp_exact: 35 rows, 9 columns, 129 non-zeros
+GNU MP bignum library is being used
+    190:   infsum =                     16   (0)
+    214:   infsum =                      0   (0)
+*   214:   objval =                    3.5   (0)
+*   217:   objval =                      3   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 38
+glp_exact: 38 rows, 9 columns, 141 non-zeros
+GNU MP bignum library is being used
+    217:   infsum =                     18   (0)
+    243:   infsum =                      0   (0)
+*   243:   objval =                    3.8   (0)
+*   245:   objval =       3.28571428571429   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+    245:   infsum =                     23   (0)
+    276:   infsum =                      0   (0)
+*   276:   objval =                   5.25   (0)
+*   278:   objval =                      5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+    278:   infsum =                     27   (0)
+    309:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+    309:   infsum =                     24   (0)
+    342:   infsum =                      0   (0)
+*   342:   objval =                   5.75   (0)
+*   344:   objval =                   5.25   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+    344:   infsum =                     27   (0)
+    373:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+    373:   infsum =                     25   (0)
+    407:   infsum =                      0   (0)
+*   407:   objval =                   5.25   (0)
+*   408:   objval =                   5.25   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+    408:   infsum =                     29   (0)
+    442:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+    442:   infsum =                     26   (0)
+    476:   infsum =                      0   (0)
+*   476:   objval =                   5.25   (0)
+*   477:   objval =                   5.25   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+    477:   infsum =                     27   (0)
+    515:   infsum =                      0   (0)
+*   515:   objval =                     14   (0)
+*   517:   objval =                     13   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+    517:   infsum =                     29   (0)
+    552:   infsum =                   6.75   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+    552:   infsum =                     28   (0)
+    588:   infsum =                      0   (0)
+*   588:   objval =                     17   (0)
+*   588:   objval =                     17   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+    588:   infsum =                     29   (0)
+    621:   infsum =                      7   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+    621:   infsum =                     29   (0)
+    661:   infsum =                      0   (0)
+*   661:   objval =                     22   (0)
+*   661:   objval =                     22   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+    661:   infsum =                     29   (0)
+    701:   infsum =                      0   (0)
+*   701:   objval =                     22   (0)
+*   701:   objval =                     22   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 55
+glp_exact: 55 rows, 9 columns, 209 non-zeros
+GNU MP bignum library is being used
+    701:   infsum =                     31   (0)
+    732:   infsum =                     15   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 53
+glp_exact: 53 rows, 9 columns, 201 non-zeros
+GNU MP bignum library is being used
+    732:   infsum =                     30   (0)
+    763:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+    763:   infsum =                     30   (0)
+    793:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+    793:   infsum =                     27   (0)
+    829:   infsum =                      0   (0)
+*   829:   objval =                      9   (0)
+*   830:   objval =                      9   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+    830:   infsum =                     29   (0)
+    865:   infsum =                      6   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+    865:   infsum =                     28   (0)
+    903:   infsum =                      3   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+    903:   infsum =                     19   (0)
+    932:   infsum =                      0   (0)
+*   932:   objval =       4.57142857142857   (0)
+*   932:   objval =       4.57142857142857   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+    932:   infsum =                     22   (0)
+    965:   infsum =                      0   (0)
+*   965:   objval =       6.33333333333333   (0)
+*   966:   objval =       6.33333333333333   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+    966:   infsum =                     24   (0)
+    999:   infsum =                      0   (0)
+*   999:   objval =                     11   (0)
+*  1000:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   1000:   infsum =                     27   (0)
+   1038:   infsum =                      0   (0)
+*  1038:   objval =                     16   (0)
+*  1041:   objval =                     15   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 53
+glp_exact: 53 rows, 9 columns, 201 non-zeros
+GNU MP bignum library is being used
+   1041:   infsum =                     29   (0)
+   1069:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   1069:   infsum =                     28   (0)
+   1109:   infsum =                      0   (0)
+*  1109:   objval =                     19   (0)
+*  1109:   objval =                     19   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 53
+glp_exact: 53 rows, 9 columns, 201 non-zeros
+GNU MP bignum library is being used
+   1109:   infsum =                     29   (0)
+   1140:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   1140:   infsum =                     29   (0)
+   1179:   infsum =                      0   (0)
+*  1179:   objval =                     19   (0)
+*  1179:   objval =                     19   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 9 columns, 205 non-zeros
+GNU MP bignum library is being used
+   1179:   infsum =                     30   (0)
+   1211:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 53
+glp_exact: 53 rows, 9 columns, 201 non-zeros
+GNU MP bignum library is being used
+   1211:   infsum =                     30   (0)
+   1240:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   1240:   infsum =                     25   (0)
+   1272:   infsum =                      0   (0)
+*  1272:   objval =                     12   (0)
+*  1274:   objval =                     12   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   1274:   infsum =                     27   (0)
+   1305:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   1305:   infsum =                     26   (0)
+   1343:   infsum =                      0   (0)
+*  1343:   objval =                     13   (0)
+*  1344:   objval =                     13   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   1344:   infsum =                     29   (0)
+   1376:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   1376:   infsum =                     27   (0)
+   1410:   infsum =                      0   (0)
+*  1410:   objval =                     14   (0)
+*  1411:   objval =                     14   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   1411:   infsum =                     29   (0)
+   1442:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   1442:   infsum =                     28   (0)
+   1484:   infsum =                      0   (0)
+*  1484:   objval =                     14   (0)
+*  1484:   objval =                     14   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 53
+glp_exact: 53 rows, 9 columns, 201 non-zeros
+GNU MP bignum library is being used
+   1484:   infsum =                     30   (0)
+   1520:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   1520:   infsum =                     29   (0)
+   1561:   infsum =                      0   (0)
+*  1561:   objval =                     17   (0)
+*  1561:   objval =                     17   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 9 columns, 205 non-zeros
+GNU MP bignum library is being used
+   1561:   infsum =                     31   (0)
+   1591:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   1591:   infsum =                     30   (0)
+   1629:   infsum =                    5.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   1629:   infsum =                     23   (0)
+   1661:   infsum =                      0   (0)
+*  1661:   objval =       7.66666666666667   (0)
+*  1662:   objval =       7.66666666666667   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   1662:   infsum =                     25   (0)
+   1693:   infsum =       6.66666666666667   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   1693:   infsum =                     24   (0)
+   1726:   infsum =                      0   (0)
+*  1726:   objval =       7.66666666666667   (0)
+*  1727:   objval =       7.66666666666667   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   1727:   infsum =                     26   (0)
+   1757:   infsum =       7.33333333333333   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   1757:   infsum =                     25   (0)
+   1793:   infsum =                      0   (0)
+*  1793:   objval =                     21   (0)
+*  1793:   objval =                     21   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   1793:   infsum =                     26   (0)
+   1824:   infsum =       6.33333333333333   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   1824:   infsum =                     26   (0)
+   1854:   infsum =       6.33333333333333   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+   1854:   infsum =                     20   (0)
+   1886:   infsum =                      0   (0)
+*  1886:   objval =                    5.6   (0)
+*  1890:   objval =       5.33333333333333   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   1890:   infsum =                     24   (0)
+   1928:   infsum =                      0   (0)
+*  1928:   objval =                     12   (0)
+*  1932:   objval =                     12   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   1932:   infsum =                     27   (0)
+   1968:   infsum =                   6.75   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   1968:   infsum =                     25   (0)
+   2011:   infsum =                      0   (0)
+*  2011:   objval =                     16   (0)
+*  2011:   objval =                     16   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 15
+S 0 16 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 
+optimal: 
+	x_{ 0} = 16.000000
+	x_{ 1} = 16.000000
+	x_{ 2} = 4.000000
+	x_{ 3} = 3.000000
+	x_{ 4} = 3.000000
+	x_{ 5} = 3.000000
+	x_{ 6} = -10.000000
+	x_{ 7} = -11.000000
+	x_{ 8} = -24.000000
+ with 55 non-negative sets (target: 56)
+
+-- getBranchOptHalf makes this inequality infeasible both ways!
+-- removing solution at depth 15
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+   2011:   infsum =                     21   (0)
+   2050:   infsum =                      0   (0)
+*  2050:   objval =                      6   (0)
+*  2052:   objval =                      6   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   2052:   infsum =                     24   (0)
+   2084:   infsum =                      0   (0)
+*  2084:   objval =                      7   (0)
+*  2087:   objval =                      7   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   2087:   infsum =                     26   (0)
+   2119:   infsum =                      6   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   2119:   infsum =                     25   (0)
+   2153:   infsum =                      0   (0)
+*  2153:   objval =                      9   (0)
+*  2154:   objval =                      9   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   2154:   infsum =                     27   (0)
+   2186:   infsum =                      7   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   2186:   infsum =                     26   (0)
+   2222:   infsum =                      0   (0)
+*  2222:   objval =                      9   (0)
+*  2222:   objval =                      9   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   2222:   infsum =                     27   (0)
+   2254:   infsum =                      7   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   2254:   infsum =                     27   (0)
+   2292:   infsum =                      3   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   2292:   infsum =                     22   (0)
+   2317:   infsum =                      0   (0)
+*  2317:   objval =                      6   (0)
+*  2323:   objval =                      6   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   2323:   infsum =                     25   (0)
+   2359:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   2359:   infsum =                     23   (0)
+   2389:   infsum =                      0   (0)
+*  2389:   objval =                      6   (0)
+*  2391:   objval =                      6   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   2391:   infsum =                     25   (0)
+   2419:   infsum =                     11   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   2419:   infsum =                     24   (0)
+   2448:   infsum =                      0   (0)
+*  2448:   objval =                      6   (0)
+*  2450:   objval =                      6   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   2450:   infsum =                     25   (0)
+   2483:   infsum =                      3   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   2483:   infsum =                     25   (0)
+   2515:   infsum =                      3   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 36
+glp_exact: 36 rows, 9 columns, 133 non-zeros
+GNU MP bignum library is being used
+   2515:   infsum =                     17   (0)
+   2540:   infsum =                      0   (0)
+*  2540:   objval =                      3   (0)
+*  2541:   objval =                      3   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 37
+glp_exact: 37 rows, 9 columns, 137 non-zeros
+GNU MP bignum library is being used
+   2541:   infsum =                     17   (0)
+   2566:   infsum =                      0   (0)
+*  2566:   objval =                      3   (0)
+*  2567:   objval =                      3   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+   2567:   infsum =                     18   (0)
+   2595:   infsum =                      0   (0)
+*  2595:   objval =                      7   (0)
+*  2597:   objval =                    6.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+   2597:   infsum =                     19   (0)
+   2627:   infsum =                      0   (0)
+*  2627:   objval =                    6.5   (0)
+*  2629:   objval =                    6.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   2629:   infsum =                     20   (0)
+   2659:   infsum =                      0   (0)
+*  2659:   objval =                      8   (0)
+*  2661:   objval =                    6.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   2661:   infsum =                     24   (0)
+   2693:   infsum =                      0   (0)
+*  2693:   objval =                     11   (0)
+*  2694:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   2694:   infsum =                     25   (0)
+   2721:   infsum =                    7.2   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   2721:   infsum =                     25   (0)
+   2752:   infsum =                      0   (0)
+*  2752:   objval =                     11   (0)
+*  2754:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 9 columns, 205 non-zeros
+GNU MP bignum library is being used
+   2754:   infsum =                     29   (0)
+   2787:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   2787:   infsum =                     26   (0)
+   2819:   infsum =                      0   (0)
+*  2819:   objval =                     11   (0)
+*  2820:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 9 columns, 205 non-zeros
+GNU MP bignum library is being used
+   2820:   infsum =                     29   (0)
+   2852:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   2852:   infsum =                     27   (0)
+   2880:   infsum =                      0   (0)
+*  2880:   objval =                     11   (0)
+*  2881:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 53
+glp_exact: 53 rows, 9 columns, 201 non-zeros
+GNU MP bignum library is being used
+   2881:   infsum =                     28   (0)
+   2916:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   2916:   infsum =                     28   (0)
+   2947:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   2947:   infsum =                     21   (0)
+   2978:   infsum =                      0   (0)
+*  2978:   objval =                      7   (0)
+*  2981:   objval =                      7   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   2981:   infsum =                     23   (0)
+   3013:   infsum =                      0   (0)
+*  3013:   objval =                      8   (0)
+*  3016:   objval =                      8   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   3016:   infsum =                     25   (0)
+   3045:   infsum =                    7.2   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   3045:   infsum =                     24   (0)
+   3083:   infsum =                      0   (0)
+*  3083:   objval =                      8   (0)
+*  3086:   objval =                      8   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   3086:   infsum =                     27   (0)
+   3117:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   3117:   infsum =                     25   (0)
+   3146:   infsum =                      0   (0)
+*  3146:   objval =                      8   (0)
+*  3148:   objval =                      8   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   3148:   infsum =                     26   (0)
+   3183:   infsum =                      0   (0)
+*  3183:   objval =                     29   (0)
+*  3183:   objval =                     29   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 55
+glp_exact: 55 rows, 9 columns, 209 non-zeros
+GNU MP bignum library is being used
+   3183:   infsum =                     29   (0)
+   3218:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   3218:   infsum =                     27   (0)
+   3252:   infsum =                      0   (0)
+*  3252:   objval =                     29   (0)
+*  3254:   objval =                     29   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 55
+glp_exact: 55 rows, 9 columns, 209 non-zeros
+GNU MP bignum library is being used
+   3254:   infsum =                     29   (0)
+   3286:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 53
+glp_exact: 53 rows, 9 columns, 201 non-zeros
+GNU MP bignum library is being used
+   3286:   infsum =                     28   (0)
+   3322:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   3322:   infsum =                     26   (0)
+   3355:   infsum =                      0   (0)
+*  3355:   objval =                     38   (0)
+*  3356:   objval =                     38   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   3356:   infsum =                     27   (0)
+   3388:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   3388:   infsum =                     27   (0)
+   3421:   infsum =                      6   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   3421:   infsum =                     22   (0)
+   3456:   infsum =                      0   (0)
+*  3456:   objval =                      8   (0)
+*  3457:   objval =                      8   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   3457:   infsum =                     23   (0)
+   3493:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   3493:   infsum =                     23   (0)
+   3527:   infsum =                      0   (0)
+*  3527:   objval =                      8   (0)
+*  3530:   objval =                      8   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   3530:   infsum =                     24   (0)
+   3568:   infsum =                      0   (0)
+*  3568:   objval =                     24   (0)
+*  3568:   objval =                     24   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   3568:   infsum =                     27   (0)
+   3597:   infsum =       10.2857142857143   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   3597:   infsum =                     25   (0)
+   3637:   infsum =                      0   (0)
+*  3637:   objval =                     24   (0)
+*  3637:   objval =                     24   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 53
+glp_exact: 53 rows, 9 columns, 201 non-zeros
+GNU MP bignum library is being used
+   3637:   infsum =                     28   (0)
+   3665:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   3665:   infsum =                     26   (0)
+   3699:   infsum =                      0   (0)
+*  3699:   objval =                     25   (0)
+*  3700:   objval =                     25   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   3700:   infsum =                     27   (0)
+   3727:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   3727:   infsum =                     27   (0)
+   3762:   infsum =                      0   (0)
+*  3762:   objval =                     25   (0)
+*  3763:   objval =                     25   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 9 columns, 205 non-zeros
+GNU MP bignum library is being used
+   3763:   infsum =                     29   (0)
+   3791:   infsum =                   10.8   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   3791:   infsum =                     28   (0)
+   3819:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   3819:   infsum =                     24   (0)
+   3854:   infsum =                      0   (0)
+*  3854:   objval =                     11   (0)
+*  3856:   objval =                     10   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   3856:   infsum =                     25   (0)
+   3885:   infsum =                    5.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   3885:   infsum =                     25   (0)
+   3916:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   3916:   infsum =                     20   (0)
+   3949:   infsum =                      0   (0)
+*  3949:   objval =                      8   (0)
+*  3951:   objval =                    7.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   3951:   infsum =                     21   (0)
+   3985:   infsum =                      0   (0)
+*  3985:   objval =                     11   (0)
+*  3986:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   3986:   infsum =                     25   (0)
+   4020:   infsum =                      0   (0)
+*  4020:   objval =                   15.5   (0)
+*  4021:   objval =                   15.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   4021:   infsum =                     26   (0)
+   4049:   infsum =                      7   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   4049:   infsum =                     26   (0)
+   4086:   infsum =                      0   (0)
+*  4086:   objval =                   15.5   (0)
+*  4088:   objval =                   15.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 9 columns, 205 non-zeros
+GNU MP bignum library is being used
+   4088:   infsum =                     29   (0)
+   4127:   infsum =                      6   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   4127:   infsum =                     27   (0)
+   4161:   infsum =                      0   (0)
+*  4161:   objval =                   15.5   (0)
+*  4162:   objval =                   15.5   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 9 columns, 205 non-zeros
+GNU MP bignum library is being used
+   4162:   infsum =                     29   (0)
+   4189:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   4189:   infsum =                     28   (0)
+   4225:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   4225:   infsum =                     22   (0)
+   4256:   infsum =                      0   (0)
+*  4256:   objval =                     11   (0)
+*  4256:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   4256:   infsum =                     26   (0)
+   4289:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   4289:   infsum =                     23   (0)
+   4322:   infsum =                      0   (0)
+*  4322:   objval =                     11   (0)
+*  4322:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   4322:   infsum =                     23   (0)
+   4355:   infsum =                      0   (0)
+*  4355:   objval =                     11   (0)
+*  4355:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   4355:   infsum =                     27   (0)
+   4385:   infsum =                    7.2   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   4385:   infsum =                     24   (0)
+   4424:   infsum =                      3   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   4424:   infsum =                     24   (0)
+   4469:   infsum =                      0   (0)
+*  4469:   objval =                     41   (0)
+*  4470:   objval =                     20   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   4470:   infsum =                     26   (0)
+   4501:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   4501:   infsum =                     25   (0)
+   4538:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   4538:   infsum =                     21   (0)
+   4572:   infsum =                      0   (0)
+*  4572:   objval =                    7.5   (0)
+*  4574:   objval =                    7.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   4574:   infsum =                     22   (0)
+   4603:   infsum =                      0   (0)
+*  4603:   objval =                     11   (0)
+*  4603:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   4603:   infsum =                     25   (0)
+   4633:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   4633:   infsum =                     23   (0)
+   4660:   infsum =                      0   (0)
+*  4660:   objval =                     11   (0)
+*  4663:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   4663:   infsum =                     26   (0)
+   4692:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   4692:   infsum =                     24   (0)
+   4723:   infsum =                      0   (0)
+*  4723:   objval =                     11   (0)
+*  4725:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   4725:   infsum =                     25   (0)
+   4754:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   4754:   infsum =                     25   (0)
+   4787:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   4787:   infsum =                     22   (0)
+   4820:   infsum =                      0   (0)
+*  4820:   objval =                     10   (0)
+*  4821:   objval =                     10   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   4821:   infsum =                     24   (0)
+   4859:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   4859:   infsum =                     23   (0)
+   4892:   infsum =                      0   (0)
+*  4892:   objval =                     10   (0)
+*  4893:   objval =                     10   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   4893:   infsum =                     25   (0)
+   4924:   infsum =                   10.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   4924:   infsum =                     24   (0)
+   4958:   infsum =                      0   (0)
+*  4958:   objval =                     10   (0)
+*  4960:   objval =                     10   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   4960:   infsum =                     24   (0)
+   4997:   infsum =                      0   (0)
+*  4997:   objval =                     10   (0)
+*  4998:   objval =                     10   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   4998:   infsum =                     26   (0)
+   5029:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   5029:   infsum =                     25   (0)
+   5062:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   5062:   infsum =                     25   (0)
+   5093:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+   5093:   infsum =                     19   (0)
+   5125:   infsum =                      0   (0)
+*  5125:   objval =                     10   (0)
+*  5127:   objval =                    9.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   5127:   infsum =                     20   (0)
+   5162:   infsum =                      0   (0)
+*  5162:   objval =                     10   (0)
+*  5163:   objval =                    9.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   5163:   infsum =                     21   (0)
+   5199:   infsum =                      0   (0)
+*  5199:   objval =                     10   (0)
+*  5200:   objval =                    9.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   5200:   infsum =                     23   (0)
+   5239:   infsum =                      0   (0)
+*  5239:   objval =                     22   (0)
+*  5239:   objval =                     22   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   5239:   infsum =                     25   (0)
+   5276:   infsum =                      0   (0)
+*  5276:   objval =                     28   (0)
+*  5277:   objval =                     27   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 9 columns, 205 non-zeros
+GNU MP bignum library is being used
+   5277:   infsum =                     28   (0)
+   5307:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   5307:   infsum =                     26   (0)
+   5348:   infsum =                      0   (0)
+*  5348:   objval =                     32   (0)
+*  5349:   objval =                     31   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 9 columns, 205 non-zeros
+GNU MP bignum library is being used
+   5349:   infsum =                     28   (0)
+   5385:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   5385:   infsum =                     27   (0)
+   5426:   infsum =                      0   (0)
+*  5426:   objval =                     31   (0)
+*  5426:   objval =                     31   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 9 columns, 205 non-zeros
+GNU MP bignum library is being used
+   5426:   infsum =                     28   (0)
+   5455:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 53
+glp_exact: 53 rows, 9 columns, 201 non-zeros
+GNU MP bignum library is being used
+   5455:   infsum =                     28   (0)
+   5486:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   5486:   infsum =                     24   (0)
+   5518:   infsum =                      0   (0)
+*  5518:   objval =                     25   (0)
+*  5521:   objval =                     23   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   5521:   infsum =                     27   (0)
+   5552:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   5552:   infsum =                     25   (0)
+   5588:   infsum =                      0   (0)
+*  5588:   objval =                     29   (0)
+*  5589:   objval =                     27   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   5589:   infsum =                     26   (0)
+   5620:   infsum =                    7.2   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   5620:   infsum =                     26   (0)
+   5659:   infsum =                      0   (0)
+*  5659:   objval =                     27   (0)
+*  5660:   objval =                     27   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   5660:   infsum =                     27   (0)
+   5690:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   5690:   infsum =                     27   (0)
+   5718:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   5718:   infsum =                     22   (0)
+   5755:   infsum =                      0   (0)
+*  5755:   objval =                     11   (0)
+*  5756:   objval =                   10.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   5756:   infsum =                     23   (0)
+   5795:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   5795:   infsum =                     23   (0)
+   5829:   infsum =                      0   (0)
+*  5829:   objval =                   10.5   (0)
+*  5830:   objval =                   10.5   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   5830:   infsum =                     25   (0)
+   5855:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   5855:   infsum =                     24   (0)
+   5893:   infsum =                      0   (0)
+*  5893:   objval =                   10.5   (0)
+*  5894:   objval =                   10.5   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   5894:   infsum =                     24   (0)
+   5932:   infsum =                      0   (0)
+*  5932:   objval =                   10.5   (0)
+*  5933:   objval =                   10.5   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   5933:   infsum =                     25   (0)
+   5962:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   5962:   infsum =                     25   (0)
+   5993:   infsum =                    5.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   5993:   infsum =                     25   (0)
+   6025:   infsum =                    5.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   6025:   infsum =                     21   (0)
+   6058:   infsum =                      0   (0)
+*  6058:   objval =                    9.5   (0)
+*  6060:   objval =                    9.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   6060:   infsum =                     22   (0)
+   6088:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   6088:   infsum =                     22   (0)
+   6120:   infsum =                      0   (0)
+*  6120:   objval =                     12   (0)
+*  6120:   objval =                     12   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   6120:   infsum =                     24   (0)
+   6157:   infsum =                      6   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   6157:   infsum =                     23   (0)
+   6193:   infsum =                      0   (0)
+*  6193:   objval =                     12   (0)
+*  6193:   objval =                     12   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   6193:   infsum =                     25   (0)
+   6220:   infsum =                     13   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   6220:   infsum =                     24   (0)
+   6257:   infsum =                      0   (0)
+*  6257:   objval =                     12   (0)
+*  6258:   objval =                     12   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   6258:   infsum =                     25   (0)
+   6287:   infsum =                      6   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   6287:   infsum =                     25   (0)
+   6324:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+   6324:   infsum =                     20   (0)
+   6356:   infsum =                      0   (0)
+*  6356:   objval =                     10   (0)
+*  6357:   objval =                     10   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   6357:   infsum =                     20   (0)
+   6389:   infsum =                      0   (0)
+*  6389:   objval =                     12   (0)
+*  6391:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   6391:   infsum =                     22   (0)
+   6427:   infsum =                      0   (0)
+*  6427:   objval =                     15   (0)
+*  6427:   objval =                     15   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   6427:   infsum =                     24   (0)
+   6462:   infsum =                      0   (0)
+*  6462:   objval =                     15   (0)
+*  6463:   objval =                     15   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   6463:   infsum =                     27   (0)
+   6495:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   6495:   infsum =                     25   (0)
+   6532:   infsum =                      0   (0)
+*  6532:   objval =                     18   (0)
+*  6532:   objval =                     18   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   6532:   infsum =                     27   (0)
+   6563:   infsum =                   10.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   6563:   infsum =                     26   (0)
+   6598:   infsum =                      0   (0)
+*  6598:   objval =                     18   (0)
+*  6598:   objval =                     18   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   6598:   infsum =                     27   (0)
+   6628:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   6628:   infsum =                     27   (0)
+   6665:   infsum =                      0   (0)
+*  6665:   objval =                     44   (0)
+*  6665:   objval =                     44   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 9 columns, 205 non-zeros
+GNU MP bignum library is being used
+   6665:   infsum =                     29   (0)
+   6694:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   6694:   infsum =                     28   (0)
+   6726:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   6726:   infsum =                     23   (0)
+   6762:   infsum =                      0   (0)
+*  6762:   objval =                     16   (0)
+*  6762:   objval =                     16   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   6762:   infsum =                     25   (0)
+   6789:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   6789:   infsum =                     24   (0)
+   6823:   infsum =                      0   (0)
+*  6823:   objval =                     16   (0)
+*  6823:   objval =                     16   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   6823:   infsum =                     26   (0)
+   6853:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   6853:   infsum =                     25   (0)
+   6893:   infsum =                      0   (0)
+*  6893:   objval =                     17   (0)
+*  6894:   objval =                     16   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   6894:   infsum =                     27   (0)
+   6924:   infsum =                     12   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   6924:   infsum =                     26   (0)
+   6958:   infsum =                      0   (0)
+*  6958:   objval =                     16   (0)
+*  6958:   objval =                     16   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+   6958:   infsum =                     27   (0)
+   6988:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   6988:   infsum =                     27   (0)
+   7019:   infsum =                    5.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   7019:   infsum =                     21   (0)
+   7058:   infsum =                      0   (0)
+*  7058:   objval =                     13   (0)
+*  7059:   objval =                     12   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   7059:   infsum =                     23   (0)
+   7093:   infsum =                      0   (0)
+*  7093:   objval =                     33   (0)
+*  7093:   objval =                     33   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   7093:   infsum =                     26   (0)
+   7122:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   7122:   infsum =                     24   (0)
+   7158:   infsum =                      0   (0)
+*  7158:   objval =                     38   (0)
+*  7158:   objval =                     38   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   7158:   infsum =                     28   (0)
+   7189:   infsum =                     12   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   7189:   infsum =                     25   (0)
+   7231:   infsum =                      0   (0)
+*  7231:   objval =                     38   (0)
+*  7231:   objval =                     38   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   7231:   infsum =                     25   (0)
+   7273:   infsum =                      0   (0)
+*  7273:   objval =                     38   (0)
+*  7273:   objval =                     38   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+   7273:   infsum =                     27   (0)
+   7307:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   7307:   infsum =                     26   (0)
+   7342:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   7342:   infsum =                     26   (0)
+   7372:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   7372:   infsum =                     22   (0)
+   7408:   infsum =                      0   (0)
+*  7408:   objval =                     12   (0)
+*  7408:   objval =                     12   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   7408:   infsum =                     24   (0)
+   7437:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   7437:   infsum =                     23   (0)
+   7476:   infsum =                      0   (0)
+*  7476:   objval =                     15   (0)
+*  7476:   objval =                     15   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   7476:   infsum =                     25   (0)
+   7509:   infsum =                    7.2   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   7509:   infsum =                     24   (0)
+   7546:   infsum =                      0   (0)
+*  7546:   objval =                     18   (0)
+*  7546:   objval =                     18   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+   7546:   infsum =                     26   (0)
+   7573:   infsum =                   12.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   7573:   infsum =                     25   (0)
+   7613:   infsum =                      0   (0)
+*  7613:   objval =                     18   (0)
+*  7613:   objval =                     18   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+   7613:   infsum =                     27   (0)
+   7643:   infsum =                     11   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+   7643:   infsum =                     26   (0)
+   7674:   infsum =                    5.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   7674:   infsum =                     21   (0)
+   7711:   infsum =                      0   (0)
+*  7711:   objval =                     10   (0)
+*  7711:   objval =                     10   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   7711:   infsum =                     22   (0)
+   7740:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   7740:   infsum =                     22   (0)
+   7770:   infsum =                      0   (0)
+*  7770:   objval =                     10   (0)
+*  7773:   objval =                     10   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   7773:   infsum =                     23   (0)
+   7813:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   7813:   infsum =                     23   (0)
+   7848:   infsum =                      0   (0)
+*  7848:   objval =                     13   (0)
+*  7849:   objval =                     13   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   7849:   infsum =                     24   (0)
+   7873:   infsum =                     12   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   7873:   infsum =                     24   (0)
+   7912:   infsum =                      0   (0)
+*  7912:   objval =                     13   (0)
+*  7912:   objval =                     13   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   7912:   infsum =                     25   (0)
+   7944:   infsum =                      6   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   7944:   infsum =                     25   (0)
+   7974:   infsum =                    5.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 38
+glp_exact: 38 rows, 9 columns, 141 non-zeros
+GNU MP bignum library is being used
+   7974:   infsum =                     18   (0)
+   8002:   infsum =                      0   (0)
+*  8002:   objval =                      5   (0)
+*  8003:   objval =                      5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+   8003:   infsum =                     19   (0)
+   8031:   infsum =                      0   (0)
+*  8031:   objval =                    9.5   (0)
+*  8032:   objval =                    9.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+   8032:   infsum =                     19   (0)
+   8061:   infsum =                      0   (0)
+*  8061:   objval =                   11.5   (0)
+*  8061:   objval =                   11.5   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   8061:   infsum =                     20   (0)
+   8096:   infsum =                      7   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   8096:   infsum =                     20   (0)
+   8126:   infsum =                      0   (0)
+*  8126:   objval =                   11.5   (0)
+*  8126:   objval =                   11.5   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   8126:   infsum =                     21   (0)
+   8156:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   8156:   infsum =                     21   (0)
+   8186:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+   8186:   infsum =                     20   (0)
+   8215:   infsum =                      0   (0)
+*  8215:   objval =                    9.5   (0)
+*  8217:   objval =                    9.5   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   8217:   infsum =                     21   (0)
+   8246:   infsum =                      6   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   8246:   infsum =                     21   (0)
+   8274:   infsum =                      0   (0)
+*  8274:   objval =                    9.5   (0)
+*  8277:   objval =                    9.5   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   8277:   infsum =                     21   (0)
+   8309:   infsum =                      0   (0)
+*  8309:   objval =                    9.5   (0)
+*  8310:   objval =                    9.5   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   8310:   infsum =                     22   (0)
+   8339:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   8339:   infsum =                     22   (0)
+   8372:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   8372:   infsum =                     22   (0)
+   8401:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+   8401:   infsum =                     19   (0)
+   8438:   infsum =                      0   (0)
+*  8438:   objval =                      6   (0)
+*  8438:   objval =                      6   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+   8438:   infsum =                     20   (0)
+   8468:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+   8468:   infsum =                     20   (0)
+   8500:   infsum =                      0   (0)
+*  8500:   objval =                      7   (0)
+*  8501:   objval =                      7   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 15
+S 0 16 0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 
+optimal: 
+	x_{ 0} = 7.000000
+	x_{ 1} = 7.000000
+	x_{ 2} = 6.000000
+	x_{ 3} = 5.000000
+	x_{ 4} = 5.000000
+	x_{ 5} = -5.000000
+	x_{ 6} = -6.000000
+	x_{ 7} = -9.000000
+	x_{ 8} = -10.000000
+ with 55 non-negative sets (target: 56)
+
+-- removing solution at depth 15
+Constructing initial basis...
+Size of triangular part = 37
+glp_exact: 37 rows, 9 columns, 137 non-zeros
+GNU MP bignum library is being used
+   8501:   infsum =                     18   (0)
+   8529:   infsum =                      0   (0)
+*  8529:   objval =                      4   (0)
+*  8532:   objval =                      4   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 12
+S 0 13 0 0 1 0 0 0 0 0 0 0 0 1 1 
+optimal: 
+	x_{ 0} = 4.000000
+	x_{ 1} = 4.000000
+	x_{ 2} = 4.000000
+	x_{ 3} = 3.000000
+	x_{ 4} = 3.000000
+	x_{ 5} = -3.500000
+	x_{ 6} = -3.500000
+	x_{ 7} = -5.500000
+	x_{ 8} = -5.500000
+ with 54 non-negative sets (target: 56)
+
+-- removing solution at depth 12
+Constructing initial basis...
+Size of triangular part = 32
+glp_exact: 32 rows, 9 columns, 117 non-zeros
+GNU MP bignum library is being used
+   8532:   infsum =                     14   (0)
+   8564:   infsum =                      0   (0)
+*  8564:   objval =                   4.25   (0)
+*  8569:   objval =                    3.8   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 36
+glp_exact: 36 rows, 9 columns, 133 non-zeros
+GNU MP bignum library is being used
+   8569:   infsum =                     17   (0)
+   8605:   infsum =                      0   (0)
+*  8605:   objval =                     21   (0)
+*  8605:   objval =                     21   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+   8605:   infsum =                     21   (0)
+   8633:   infsum =                      3   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 37
+glp_exact: 37 rows, 9 columns, 137 non-zeros
+GNU MP bignum library is being used
+   8633:   infsum =                     18   (0)
+   8665:   infsum =                      0   (0)
+*  8665:   objval =                     21   (0)
+*  8666:   objval =                     21   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 38
+glp_exact: 38 rows, 9 columns, 141 non-zeros
+GNU MP bignum library is being used
+   8666:   infsum =                     18   (0)
+   8699:   infsum =                      0   (0)
+*  8699:   objval =                     24   (0)
+*  8700:   objval =                     24   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   8700:   infsum =                     22   (0)
+   8728:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+   8728:   infsum =                     19   (0)
+   8757:   infsum =                      0   (0)
+*  8757:   objval =                     24   (0)
+*  8757:   objval =                     24   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   8757:   infsum =                     22   (0)
+   8781:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+   8781:   infsum =                     20   (0)
+   8809:   infsum =                      0   (0)
+*  8809:   objval =                     24   (0)
+*  8810:   objval =                     24   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   8810:   infsum =                     22   (0)
+   8833:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+   8833:   infsum =                     21   (0)
+   8864:   infsum =                      0   (0)
+*  8864:   objval =                     24   (0)
+*  8864:   objval =                     24   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   8864:   infsum =                     23   (0)
+   8890:   infsum =                    7.8   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   8890:   infsum =                     22   (0)
+   8916:   infsum =                      6   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 38
+glp_exact: 38 rows, 9 columns, 141 non-zeros
+GNU MP bignum library is being used
+   8916:   infsum =                     19   (0)
+   8947:   infsum =                      0   (0)
+*  8947:   objval =                     21   (0)
+*  8947:   objval =                     21   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+   8947:   infsum =                     20   (0)
+   8978:   infsum =                      0   (0)
+*  8978:   objval =                     22   (0)
+*  8978:   objval =                     22   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   8978:   infsum =                     21   (0)
+   9004:   infsum =                    5.4   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+   9004:   infsum =                     21   (0)
+   9035:   infsum =                   6.75   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+   9035:   infsum =                     20   (0)
+   9062:   infsum =                      0   (0)
+*  9062:   objval =                     21   (0)
+*  9062:   objval =                     21   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   9062:   infsum =                     22   (0)
+   9085:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+   9085:   infsum =                     21   (0)
+   9113:   infsum =                      0   (0)
+*  9113:   objval =                     21   (0)
+*  9113:   objval =                     21   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+   9113:   infsum =                     21   (0)
+   9141:   infsum =                      0   (0)
+*  9141:   objval =                     21   (0)
+*  9141:   objval =                     21   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   9141:   infsum =                     22   (0)
+   9166:   infsum =                    5.4   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   9166:   infsum =                     22   (0)
+   9190:   infsum =                    7.2   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+   9190:   infsum =                     22   (0)
+   9214:   infsum =                    7.2   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 33
+glp_exact: 33 rows, 9 columns, 121 non-zeros
+GNU MP bignum library is being used
+   9214:   infsum =                     15   (0)
+   9238:   infsum =                      0   (0)
+*  9238:   objval =                    3.8   (0)
+*  9239:   objval =                    3.8   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 37
+glp_exact: 37 rows, 9 columns, 137 non-zeros
+GNU MP bignum library is being used
+   9239:   infsum =                     18   (0)
+   9271:   infsum =                      0   (0)
+*  9271:   objval =                   8.75   (0)
+*  9271:   objval =                   8.75   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+   9271:   infsum =                     21   (0)
+   9300:   infsum =                      0   (0)
+*  9300:   objval =                     21   (0)
+*  9300:   objval =                     21   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   9300:   infsum =                     22   (0)
+   9330:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   9330:   infsum =                     22   (0)
+   9365:   infsum =                      0   (0)
+*  9365:   objval =                     27   (0)
+*  9365:   objval =                     27   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   9365:   infsum =                     26   (0)
+   9392:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   9392:   infsum =                     23   (0)
+   9424:   infsum =                      0   (0)
+*  9424:   objval =                     28   (0)
+*  9424:   objval =                     28   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   9424:   infsum =                     26   (0)
+   9457:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   9457:   infsum =                     24   (0)
+   9490:   infsum =                      0   (0)
+*  9490:   objval =                     28   (0)
+*  9490:   objval =                     28   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   9490:   infsum =                     25   (0)
+   9524:   infsum =                      7   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   9524:   infsum =                     25   (0)
+   9558:   infsum =                      0   (0)
+*  9558:   objval =                     28   (0)
+*  9559:   objval =                     28   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   9559:   infsum =                     26   (0)
+   9587:   infsum =                    7.2   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   9587:   infsum =                     26   (0)
+   9612:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 38
+glp_exact: 38 rows, 9 columns, 141 non-zeros
+GNU MP bignum library is being used
+   9612:   infsum =                     19   (0)
+   9644:   infsum =                      0   (0)
+*  9644:   objval =                   8.75   (0)
+*  9645:   objval =                   8.75   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   9645:   infsum =                     23   (0)
+   9670:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+   9670:   infsum =                     20   (0)
+   9699:   infsum =                      0   (0)
+*  9699:   objval =                   8.75   (0)
+*  9699:   objval =                   8.75   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+   9699:   infsum =                     22   (0)
+   9732:   infsum =                      0   (0)
+*  9732:   objval =                     24   (0)
+*  9733:   objval =                     24   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   9733:   infsum =                     24   (0)
+   9765:   infsum =       6.33333333333333   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+   9765:   infsum =                     23   (0)
+   9795:   infsum =                      0   (0)
+*  9795:   objval =                     24   (0)
+*  9796:   objval =                     24   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   9796:   infsum =                     25   (0)
+   9824:   infsum =                    7.6   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+   9824:   infsum =                     24   (0)
+   9853:   infsum =                      0   (0)
+*  9853:   objval =                     24   (0)
+*  9854:   objval =                     24   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   9854:   infsum =                     25   (0)
+   9887:   infsum =                    7.2   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+   9887:   infsum =                     25   (0)
+   9917:   infsum =                      0   (0)
+*  9917:   objval =                     24   (0)
+*  9918:   objval =                     24   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+   9918:   infsum =                     26   (0)
+   9946:   infsum =                    7.2   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+   9946:   infsum =                     26   (0)
+   9971:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+   9971:   infsum =                     21   (0)
+  10002:   infsum =                   2.25   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 34
+glp_exact: 34 rows, 9 columns, 125 non-zeros
+GNU MP bignum library is being used
+  10002:   infsum =                     16   (0)
+  10027:   infsum =                      0   (0)
+* 10027:   objval =                    3.8   (0)
+* 10028:   objval =                    3.8   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 37
+glp_exact: 37 rows, 9 columns, 137 non-zeros
+GNU MP bignum library is being used
+  10028:   infsum =                     18   (0)
+  10060:   infsum =                      4   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 35
+glp_exact: 35 rows, 9 columns, 129 non-zeros
+GNU MP bignum library is being used
+  10060:   infsum =                     17   (0)
+  10082:   infsum =                      0   (0)
+* 10082:   objval =                    3.8   (0)
+* 10083:   objval =                    3.8   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 36
+glp_exact: 36 rows, 9 columns, 133 non-zeros
+GNU MP bignum library is being used
+  10083:   infsum =                     17   (0)
+  10105:   infsum =                      0   (0)
+* 10105:   objval =                    3.8   (0)
+* 10106:   objval =                    3.8   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 38
+glp_exact: 38 rows, 9 columns, 141 non-zeros
+GNU MP bignum library is being used
+  10106:   infsum =                     18   (0)
+  10134:   infsum =                      0   (0)
+* 10134:   objval =                    6.5   (0)
+* 10135:   objval =                    6.5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+  10135:   infsum =                     20   (0)
+  10162:   infsum =                      0   (0)
+* 10162:   objval =                     20   (0)
+* 10163:   objval =                     20   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+  10163:   infsum =                     21   (0)
+  10197:   infsum =                      0   (0)
+* 10197:   objval =                     26   (0)
+* 10199:   objval =                     23   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  10199:   infsum =                     22   (0)
+  10233:   infsum =                      0   (0)
+* 10233:   objval =                     25   (0)
+* 10233:   objval =                     25   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+  10233:   infsum =                     24   (0)
+  10266:   infsum =                    5.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  10266:   infsum =                     23   (0)
+  10300:   infsum =                      0   (0)
+* 10300:   objval =                     26   (0)
+* 10300:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+  10300:   infsum =                     25   (0)
+  10328:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+  10328:   infsum =                     24   (0)
+  10354:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+  10354:   infsum =                     22   (0)
+  10388:   infsum =                      0   (0)
+* 10388:   objval =                     23   (0)
+* 10389:   objval =                     23   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  10389:   infsum =                     23   (0)
+  10425:   infsum =                      0   (0)
+* 10425:   objval =                     29   (0)
+* 10426:   objval =                     29   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+  10426:   infsum =                     25   (0)
+  10459:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+  10459:   infsum =                     24   (0)
+  10483:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  10483:   infsum =                     23   (0)
+  10519:   infsum =                      0   (0)
+* 10519:   objval =                     23   (0)
+* 10520:   objval =                     23   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+  10520:   infsum =                     24   (0)
+  10552:   infsum =                    7.8   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  10552:   infsum =                     24   (0)
+  10588:   infsum =                      0   (0)
+* 10588:   objval =                     23   (0)
+* 10589:   objval =                     23   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+  10589:   infsum =                     24   (0)
+  10625:   infsum =                      0   (0)
+* 10625:   objval =                     23   (0)
+* 10626:   objval =                     23   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+  10626:   infsum =                     25   (0)
+  10662:   infsum =                      8   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+  10662:   infsum =                     25   (0)
+  10688:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+  10688:   infsum =                     25   (0)
+  10715:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+  10715:   infsum =                     21   (0)
+  10741:   infsum =                      0   (0)
+* 10741:   objval =                     20   (0)
+* 10742:   objval =                     20   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+  10742:   infsum =                     21   (0)
+  10773:   infsum =                      0   (0)
+* 10773:   objval =                     32   (0)
+* 10774:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  10774:   infsum =                     23   (0)
+  10797:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+  10797:   infsum =                     22   (0)
+  10827:   infsum =                      0   (0)
+* 10827:   objval =                     26   (0)
+* 10828:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+  10828:   infsum =                     25   (0)
+  10859:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  10859:   infsum =                     23   (0)
+  10889:   infsum =                      0   (0)
+* 10889:   objval =                     26   (0)
+* 10890:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  10890:   infsum =                     23   (0)
+  10920:   infsum =                      0   (0)
+* 10920:   objval =                     26   (0)
+* 10921:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+  10921:   infsum =                     24   (0)
+  10949:   infsum =                    7.6   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+  10949:   infsum =                     24   (0)
+  10972:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  10972:   infsum =                     24   (0)
+  10997:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+  10997:   infsum =                     22   (0)
+  11024:   infsum =                      0   (0)
+* 11024:   objval =                     20   (0)
+* 11024:   objval =                     20   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+  11024:   infsum =                     22   (0)
+  11054:   infsum =                      0   (0)
+* 11054:   objval =                     21   (0)
+* 11054:   objval =                     21   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  11054:   infsum =                     23   (0)
+  11080:   infsum =                    7.2   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  11080:   infsum =                     23   (0)
+  11110:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+  11110:   infsum =                     23   (0)
+  11137:   infsum =                      0   (0)
+* 11137:   objval =                     20   (0)
+* 11137:   objval =                     20   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  11137:   infsum =                     23   (0)
+  11164:   infsum =                      0   (0)
+* 11164:   objval =                     20   (0)
+* 11164:   objval =                     20   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  11164:   infsum =                     23   (0)
+  11191:   infsum =                      0   (0)
+* 11191:   objval =                     20   (0)
+* 11191:   objval =                     20   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+  11191:   infsum =                     24   (0)
+  11216:   infsum =                    7.2   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+  11216:   infsum =                     24   (0)
+  11240:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  11240:   infsum =                     24   (0)
+  11263:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  11263:   infsum =                     24   (0)
+  11286:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+  11286:   infsum =                     19   (0)
+  11313:   infsum =                      0   (0)
+* 11313:   objval =                    6.5   (0)
+* 11315:   objval =                    6.5   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+  11315:   infsum =                     19   (0)
+  11344:   infsum =                      0   (0)
+* 11344:   objval =       7.33333333333333   (0)
+* 11348:   objval =                    6.5   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+  11348:   infsum =                     20   (0)
+  11383:   infsum =                      0   (0)
+* 11383:   objval =                     13   (0)
+* 11383:   objval =                     13   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+  11383:   infsum =                     21   (0)
+  11412:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+  11412:   infsum =                     21   (0)
+  11441:   infsum =                      0   (0)
+* 11441:   objval =                     16   (0)
+* 11443:   objval =                     15   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  11443:   infsum =                     22   (0)
+  11472:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+  11472:   infsum =                     22   (0)
+  11503:   infsum =                      0   (0)
+* 11503:   objval =                     15   (0)
+* 11504:   objval =                     15   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  11504:   infsum =                     23   (0)
+  11535:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  11535:   infsum =                     23   (0)
+  11568:   infsum =                      0   (0)
+* 11568:   objval =                     20   (0)
+* 11569:   objval =                     20   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 21
+S 0 22 0 0 1 0 0 0 0 0 0 0 1 1 1 1 0 0 1 0 0 1 1 1 
+optimal: 
+	x_{ 0} = 20.000000
+	x_{ 1} = 19.000000
+	x_{ 2} = 19.000000
+	x_{ 3} = 4.000000
+	x_{ 4} = 4.000000
+	x_{ 5} = 3.000000
+	x_{ 6} = -12.000000
+	x_{ 7} = -28.000000
+	x_{ 8} = -29.000000
+ with 55 non-negative sets (target: 56)
+
+-- removing solution at depth 21
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+  11569:   infsum =                     20   (0)
+  11605:   infsum =                      0   (0)
+* 11605:   objval =                     11   (0)
+* 11606:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+  11606:   infsum =                     21   (0)
+  11634:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+  11634:   infsum =                     21   (0)
+  11658:   infsum =                      0   (0)
+* 11658:   objval =                     11   (0)
+* 11661:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+  11661:   infsum =                     21   (0)
+  11685:   infsum =                      0   (0)
+* 11685:   objval =                     11   (0)
+* 11688:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+  11688:   infsum =                     21   (0)
+  11712:   infsum =                      0   (0)
+* 11712:   objval =                     11   (0)
+* 11715:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  11715:   infsum =                     21   (0)
+  11739:   infsum =                      0   (0)
+* 11739:   objval =                     11   (0)
+* 11742:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  11742:   infsum =                     21   (0)
+  11766:   infsum =                      0   (0)
+* 11766:   objval =                     11   (0)
+* 11769:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+  11769:   infsum =                     22   (0)
+  11796:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+  11796:   infsum =                     22   (0)
+  11821:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  11821:   infsum =                     22   (0)
+  11848:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  11848:   infsum =                     22   (0)
+  11874:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+  11874:   infsum =                     22   (0)
+  11901:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+  11901:   infsum =                     22   (0)
+  11927:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+  11927:   infsum =                     20   (0)
+  11956:   infsum =                      0   (0)
+* 11956:   objval =                     11   (0)
+* 11958:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 17
+S 0 18 0 0 1 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1 
+optimal: 
+	x_{ 0} = 11.000000
+	x_{ 1} = 11.000000
+	x_{ 2} = 11.000000
+	x_{ 3} = 2.000000
+	x_{ 4} = 2.000000
+	x_{ 5} = 2.000000
+	x_{ 6} = -7.000000
+	x_{ 7} = -16.000000
+	x_{ 8} = -16.000000
+ with 54 non-negative sets (target: 56)
+
+-- getBranchOptHalf makes this inequality infeasible both ways!
+-- removing solution at depth 17
+Constructing initial basis...
+Size of triangular part = 37
+glp_exact: 37 rows, 9 columns, 137 non-zeros
+GNU MP bignum library is being used
+  11958:   infsum =                     18   (0)
+  11988:   infsum =                      0   (0)
+* 11988:   objval =                     15   (0)
+* 11989:   objval =                     15   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+  11989:   infsum =                     19   (0)
+  12018:   infsum =                   2.25   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 38
+glp_exact: 38 rows, 9 columns, 141 non-zeros
+GNU MP bignum library is being used
+  12018:   infsum =                     19   (0)
+  12049:   infsum =                      0   (0)
+* 12049:   objval =                     19   (0)
+* 12050:   objval =                     19   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+  12050:   infsum =                     20   (0)
+  12075:   infsum =                    4.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+  12075:   infsum =                     20   (0)
+  12108:   infsum =                      0   (0)
+* 12108:   objval =                     24   (0)
+* 12108:   objval =                     24   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 17
+S 0 18 0 0 1 0 0 0 0 0 0 0 1 1 1 1 0 1 1 1 
+optimal: 
+	x_{ 0} = 24.000000
+	x_{ 1} = 6.000000
+	x_{ 2} = 6.000000
+	x_{ 3} = 5.000000
+	x_{ 4} = 4.000000
+	x_{ 5} = 4.000000
+	x_{ 6} = -14.000000
+	x_{ 7} = -17.000000
+	x_{ 8} = -18.000000
+ with 55 non-negative sets (target: 56)
+
+-- removing solution at depth 17
+Constructing initial basis...
+Size of triangular part = 36
+glp_exact: 36 rows, 9 columns, 133 non-zeros
+GNU MP bignum library is being used
+  12108:   infsum =                     18   (0)
+  12136:   infsum =                      0   (0)
+* 12136:   objval =                     13   (0)
+* 12137:   objval =                     13   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 37
+glp_exact: 37 rows, 9 columns, 137 non-zeros
+GNU MP bignum library is being used
+  12137:   infsum =                     18   (0)
+  12168:   infsum =                      0   (0)
+* 12168:   objval =                     13   (0)
+* 12169:   objval =                     13   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+  12169:   infsum =                     19   (0)
+  12198:   infsum =                    3.6   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 38
+glp_exact: 38 rows, 9 columns, 141 non-zeros
+GNU MP bignum library is being used
+  12198:   infsum =                     19   (0)
+  12231:   infsum =                      0   (0)
+* 12231:   objval =                     18   (0)
+* 12232:   objval =                     18   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+  12232:   infsum =                     20   (0)
+  12260:   infsum =                    5.4   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+  12260:   infsum =                     20   (0)
+  12296:   infsum =                      0   (0)
+* 12296:   objval =                     23   (0)
+* 12297:   objval =                     23   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 17
+S 0 18 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 1 
+optimal: 
+	x_{ 0} = 23.000000
+	x_{ 1} = 6.000000
+	x_{ 2} = 5.000000
+	x_{ 3} = 4.000000
+	x_{ 4} = 4.000000
+	x_{ 5} = 4.000000
+	x_{ 6} = -13.000000
+	x_{ 7} = -16.000000
+	x_{ 8} = -17.000000
+ with 55 non-negative sets (target: 56)
+
+-- removing solution at depth 17
+Constructing initial basis...
+Size of triangular part = 37
+glp_exact: 37 rows, 9 columns, 137 non-zeros
+GNU MP bignum library is being used
+  12297:   infsum =                     19   (0)
+  12327:   infsum =                      0   (0)
+* 12327:   objval =                     17   (0)
+* 12328:   objval =                     17   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 15
+S 0 16 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 1 
+optimal: 
+	x_{ 0} = 17.000000
+	x_{ 1} = 4.000000
+	x_{ 2} = 4.000000
+	x_{ 3} = 3.000000
+	x_{ 4} = 3.000000
+	x_{ 5} = 3.000000
+	x_{ 6} = -10.000000
+	x_{ 7} = -12.000000
+	x_{ 8} = -12.000000
+ with 54 non-negative sets (target: 56)
+
+-- removing solution at depth 15
+Constructing initial basis...
+Size of triangular part = 30
+glp_exact: 30 rows, 9 columns, 109 non-zeros
+GNU MP bignum library is being used
+  12328:   infsum =                     13   (0)
+  12356:   infsum =                      0   (0)
+* 12356:   objval =                      3   (0)
+* 12356:   objval =                      3   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 34
+glp_exact: 34 rows, 9 columns, 125 non-zeros
+GNU MP bignum library is being used
+  12356:   infsum =                     16   (0)
+  12377:   infsum =                      0   (0)
+* 12377:   objval =                  3.125   (0)
+* 12380:   objval =                      3   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 38
+glp_exact: 38 rows, 9 columns, 141 non-zeros
+GNU MP bignum library is being used
+  12380:   infsum =                     19   (0)
+  12402:   infsum =                      0   (0)
+* 12402:   objval =                      3   (0)
+* 12405:   objval =                      3   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+  12405:   infsum =                     22   (0)
+  12430:   infsum =                      0   (0)
+* 12430:   objval =                   4.25   (0)
+* 12433:   objval =                   4.25   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  12433:   infsum =                     24   (0)
+  12461:   infsum =                    5.4   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+  12461:   infsum =                     23   (0)
+  12483:   infsum =                      0   (0)
+* 12483:   objval =                   4.25   (0)
+* 12486:   objval =                   4.25   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+  12486:   infsum =                     27   (0)
+  12514:   infsum =                     11   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+  12514:   infsum =                     24   (0)
+  12543:   infsum =                      0   (0)
+* 12543:   objval =                   4.25   (0)
+* 12545:   objval =                   4.25   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  12545:   infsum =                     25   (0)
+  12577:   infsum =                      0   (0)
+* 12577:   objval =                     13   (0)
+* 12581:   objval =                     12   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+  12581:   infsum =                     27   (0)
+  12609:   infsum =                   6.75   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+  12609:   infsum =                     26   (0)
+  12642:   infsum =                      0   (0)
+* 12642:   objval =                     12   (0)
+* 12644:   objval =                     12   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+  12644:   infsum =                     27   (0)
+  12672:   infsum =                   6.75   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+  12672:   infsum =                     27   (0)
+  12707:   infsum =                      0   (0)
+* 12707:   objval =                     17   (0)
+* 12708:   objval =                     17   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+  12708:   infsum =                     27   (0)
+  12744:   infsum =                      0   (0)
+* 12744:   objval =                     17   (0)
+* 12746:   objval =                     17   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+  12746:   infsum =                     28   (0)
+  12776:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+  12776:   infsum =                     28   (0)
+  12804:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+  12804:   infsum =                     28   (0)
+  12831:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  12831:   infsum =                     25   (0)
+  12863:   infsum =                      0   (0)
+* 12863:   objval =                     14   (0)
+* 12865:   objval =                      9   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+  12865:   infsum =                     27   (0)
+  12896:   infsum =       6.33333333333333   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  12896:   infsum =                     26   (0)
+  12930:   infsum =                      3   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+  12930:   infsum =                     20   (0)
+  12953:   infsum =                      0   (0)
+* 12953:   objval =                      3   (0)
+* 12955:   objval =                      3   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+  12955:   infsum =                     21   (0)
+  12988:   infsum =                      0   (0)
+* 12988:   objval =                     23   (0)
+* 12988:   objval =                     23   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  12988:   infsum =                     24   (0)
+  13012:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+  13012:   infsum =                     22   (0)
+  13043:   infsum =                      0   (0)
+* 13043:   objval =                     23   (0)
+* 13043:   objval =                     23   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 9 columns, 169 non-zeros
+GNU MP bignum library is being used
+  13043:   infsum =                     24   (0)
+  13074:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 9 columns, 161 non-zeros
+GNU MP bignum library is being used
+  13074:   infsum =                     23   (0)
+  13110:   infsum =                      0   (0)
+* 13110:   objval =                     28   (0)
+* 13110:   objval =                     28   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  13110:   infsum =                     25   (0)
+  13140:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 9 columns, 165 non-zeros
+GNU MP bignum library is being used
+  13140:   infsum =                     24   (0)
+  13174:   infsum =                    5.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 9 columns, 149 non-zeros
+GNU MP bignum library is being used
+  13174:   infsum =                     21   (0)
+  13203:   infsum =                      0   (0)
+* 13203:   objval =                      4   (0)
+* 13203:   objval =                      4   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 9 columns, 157 non-zeros
+GNU MP bignum library is being used
+  13203:   infsum =                     22   (0)
+  13231:   infsum =       4.33333333333333   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+  13231:   infsum =                     22   (0)
+  13260:   infsum =                      3   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 35
+glp_exact: 35 rows, 9 columns, 129 non-zeros
+GNU MP bignum library is being used
+  13260:   infsum =                     17   (0)
+  13287:   infsum =                      0   (0)
+* 13287:   objval =                    3.8   (0)
+* 13288:   objval =                      3   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 36
+glp_exact: 36 rows, 9 columns, 133 non-zeros
+GNU MP bignum library is being used
+  13288:   infsum =                     17   (0)
+  13315:   infsum =                      0   (0)
+* 13315:   objval =                    3.8   (0)
+* 13316:   objval =                      3   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 9 columns, 145 non-zeros
+GNU MP bignum library is being used
+  13316:   infsum =                     19   (0)
+  13342:   infsum =                      0   (0)
+* 13342:   objval =                      4   (0)
+* 13343:   objval =                    3.8   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 9 columns, 153 non-zeros
+GNU MP bignum library is being used
+  13343:   infsum =                     20   (0)
+  13371:   infsum =                      0   (0)
+* 13371:   objval =                      5   (0)
+* 13372:   objval =                      5   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 9 columns, 173 non-zeros
+GNU MP bignum library is being used
+  13372:   infsum =                     24   (0)
+  13415:   infsum =                      0   (0)
+* 13415:   objval =                     12   (0)
+* 13417:   objval =                     12   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+  13417:   infsum =                     27   (0)
+  13455:   infsum =                      0   (0)
+* 13455:   objval =                     34   (0)
+* 13455:   objval =                     34   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 53
+glp_exact: 53 rows, 9 columns, 201 non-zeros
+GNU MP bignum library is being used
+  13455:   infsum =                     29   (0)
+  13484:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+  13484:   infsum =                     28   (0)
+  13524:   infsum =                      0   (0)
+* 13524:   objval =                     34   (0)
+* 13524:   objval =                     34   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 9 columns, 205 non-zeros
+GNU MP bignum library is being used
+  13524:   infsum =                     30   (0)
+  13555:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+  13555:   infsum =                     29   (0)
+  13583:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 9 columns, 177 non-zeros
+GNU MP bignum library is being used
+  13583:   infsum =                     25   (0)
+  13619:   infsum =                      0   (0)
+* 13619:   objval =                     16   (0)
+* 13620:   objval =                     16   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+  13620:   infsum =                     25   (0)
+  13659:   infsum =                      0   (0)
+* 13659:   objval =                     16   (0)
+* 13661:   objval =                     16   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+  13661:   infsum =                     27   (0)
+  13694:   infsum =       6.33333333333333   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 9 columns, 185 non-zeros
+GNU MP bignum library is being used
+  13694:   infsum =                     26   (0)
+  13735:   infsum =                      0   (0)
+* 13735:   objval =                     21   (0)
+* 13735:   objval =                     21   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+  13735:   infsum =                     28   (0)
+  13761:   infsum =       12.3333333333333   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 9 columns, 189 non-zeros
+GNU MP bignum library is being used
+  13761:   infsum =                     27   (0)
+  13801:   infsum =                      0   (0)
+* 13801:   objval =                     21   (0)
+* 13802:   objval =                     21   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 52
+glp_exact: 52 rows, 9 columns, 197 non-zeros
+GNU MP bignum library is being used
+  13802:   infsum =                     28   (0)
+  13831:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 9 columns, 193 non-zeros
+GNU MP bignum library is being used
+  13831:   infsum =                     28   (0)
+  13863:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 9 columns, 181 non-zeros
+GNU MP bignum library is being used
+  13863:   infsum =                     26   (0)
+  13899:   infsum =                      0   (0)
+* 13899:   objval =                     21   (0)
+* 13900:   objval =                     21   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 17
+S 0 18 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 1 1 
+optimal: 
+	x_{ 0} = 21.000000
+	x_{ 1} = 21.000000
+	x_{ 2} = 5.000000
+	x_{ 3} = 5.000000
+	x_{ 4} = 4.000000
+	x_{ 5} = 3.000000
+	x_{ 6} = -13.000000
+	x_{ 7} = -14.000000
+	x_{ 8} = -32.000000
+ with 55 non-negative sets (target: 56)
+
+P 0 17 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 1 
+-- removing solution at depth 17
+T SUM NUM_NODES 459
+T SUM NUM_PRUNES 223
+T SUM PRUNES_AT_0 0
+T SUM PRUNE_TIME_AT_0 0.001326
+T SUM NODES_AT_0 1
+T SUM PRUNES_AT_1 0
+T SUM PRUNE_TIME_AT_1 0.001580
+T SUM NODES_AT_1 1
+T SUM PRUNES_AT_2 0
+T SUM PRUNE_TIME_AT_2 0.006471
+T SUM NODES_AT_2 2
+T SUM PRUNES_AT_3 1
+T SUM PRUNE_TIME_AT_3 0.008310
+T SUM NODES_AT_3 3
+T SUM PRUNES_AT_4 2
+T SUM PRUNE_TIME_AT_4 0.003689
+T SUM NODES_AT_4 3
+T SUM PRUNES_AT_5 0
+T SUM PRUNE_TIME_AT_5 0.003678
+T SUM NODES_AT_5 1
+T SUM PRUNES_AT_6 0
+T SUM PRUNE_TIME_AT_6 0.002730
+T SUM NODES_AT_6 1
+T SUM PRUNES_AT_7 0
+T SUM PRUNE_TIME_AT_7 0.005346
+T SUM NODES_AT_7 1
+T SUM PRUNES_AT_8 0
+T SUM PRUNE_TIME_AT_8 0.003078
+T SUM NODES_AT_8 1
+T SUM PRUNES_AT_9 0
+T SUM PRUNE_TIME_AT_9 0.017817
+T SUM NODES_AT_9 2
+T SUM PRUNES_AT_10 0
+T SUM PRUNE_TIME_AT_10 0.031027
+T SUM NODES_AT_10 3
+T SUM PRUNES_AT_11 0
+T SUM PRUNE_TIME_AT_11 0.063125
+T SUM NODES_AT_11 6
+T SUM PRUNES_AT_12 1
+T SUM PRUNE_TIME_AT_12 0.127039
+T SUM NODES_AT_12 11
+T SUM PRUNES_AT_13 5
+T SUM PRUNE_TIME_AT_13 0.218618
+T SUM NODES_AT_13 19
+T SUM PRUNES_AT_14 8
+T SUM PRUNE_TIME_AT_14 0.360328
+T SUM NODES_AT_14 27
+T SUM PRUNES_AT_15 11
+T SUM PRUNE_TIME_AT_15 0.541645
+T SUM NODES_AT_15 37
+T SUM PRUNES_AT_16 24
+T SUM PRUNE_TIME_AT_16 0.697009
+T SUM NODES_AT_16 52
+T SUM PRUNES_AT_17 25
+T SUM PRUNE_TIME_AT_17 0.863930
+T SUM NODES_AT_17 56
+T SUM PRUNES_AT_18 33
+T SUM PRUNE_TIME_AT_18 0.897728
+T SUM NODES_AT_18 60
+T SUM PRUNES_AT_19 25
+T SUM PRUNE_TIME_AT_19 0.895392
+T SUM NODES_AT_19 54
+T SUM PRUNES_AT_20 42
+T SUM PRUNE_TIME_AT_20 0.968057
+T SUM NODES_AT_20 58
+T SUM PRUNES_AT_21 21
+T SUM PRUNE_TIME_AT_21 0.520366
+T SUM NODES_AT_21 32
+T SUM PRUNES_AT_22 20
+T SUM PRUNE_TIME_AT_22 0.316864
+T SUM NODES_AT_22 22
+T SUM PRUNES_AT_23 3
+T SUM PRUNE_TIME_AT_23 0.056720
+T SUM NODES_AT_23 4
+T SUM PRUNES_AT_24 2
+T SUM PRUNE_TIME_AT_24 0.025446
+T SUM NODES_AT_24 2
+T SUM PRUNES_AT_25 0
+T SUM PRUNE_TIME_AT_25 0.000000
+T SUM PRUNE_TIME 6.637319
+T SUM SEARCH_TIME 6.669103
+

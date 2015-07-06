@@ -1,0 +1,51 @@
+Constructing initial basis...
+Size of triangular part = 6
+glp_exact: 6 rows, 5 columns, 17 non-zeros
+GNU MP bignum library is being used
+      0:   infsum =                      1   (0)
+      5:   infsum =                      0   (0)
+*     5:   objval =                      1   (0)
+*     5:   objval =                      1   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 6
+glp_exact: 6 rows, 5 columns, 17 non-zeros
+GNU MP bignum library is being used
+      5:   infsum =                      1   (0)
+     10:   infsum =                      0   (0)
+*    10:   objval =                      1   (0)
+*    10:   objval =                      1   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 7
+glp_exact: 7 rows, 5 columns, 21 non-zeros
+GNU MP bignum library is being used
+     10:   infsum =                      1   (0)
+     15:   infsum =                      0   (0)
+*    15:   objval =                      1   (0)
+*    15:   objval =                      1   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 0
+S 0 1 0 
+optimal: 
+	x_{ 0} = 1.000000
+	x_{ 1} = 1.000000
+	x_{ 2} = -0.666667
+	x_{ 3} = -0.666667
+	x_{ 4} = -0.666667
+ with 3 non-negative sets (target: 4)
+
+-- removing solution at depth 0
+T SUM NUM_NODES 4
+T SUM NUM_PRUNES 3
+T SUM PRUNES_AT_0 1
+T SUM PRUNE_TIME_AT_0 0.000838
+T SUM NODES_AT_0 2
+T SUM PRUNES_AT_1 2
+T SUM PRUNE_TIME_AT_1 0.000002
+T SUM NODES_AT_1 2
+T SUM PRUNES_AT_2 0
+T SUM PRUNE_TIME_AT_2 0.000000
+T SUM PRUNE_TIME 0.000840
+T SUM SEARCH_TIME 0.000966
+

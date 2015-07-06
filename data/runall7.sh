@@ -1,0 +1,29 @@
+#!/bin/bash
+
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N  8 -K 7 < in.0 > out-07-08-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N  9 -K 7 < in.0 > out-07-09-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 10 -K 7 < in.0 > out-07-10-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 11 -K 7 < in.0 > out-07-11-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 12 -K 7 < in.0 > out-07-12-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 13 -K 7 < in.0 > out-07-13-$1-$2.txt
+#../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 14 -K 7 < in.0 > out-07-14-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 15 -K 7 < in.0 > out-07-15-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 16 -K 7 < in.0 > out-07-16-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 17 -K 7 < in.0 > out-07-17-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 18 -K 7 < in.0 > out-07-18-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 19 -K 7 < in.0 > out-07-19-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 20 -K 7 < in.0 > out-07-20-$1-$2.txt
+#../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 21 -K 7 < in.0 > out-07-21-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 22 -K 7 < in.0 > out-07-22-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 23 -K 7 < in.0 > out-07-23-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 24 -K 7 < in.0 > out-07-24-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 25 -K 7 < in.0 > out-07-25-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 26 -K 7 < in.0 > out-07-26-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 27 -K 7 < in.0 > out-07-27-$1-$2.txt
+#../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 28 -K 7 < in.0 > out-07-28-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 29 -K 7 < in.0 > out-07-29-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 30 -K 7 < in.0 > out-07-30-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 31 -K 7 < in.0 > out-07-31-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 32 -K 7 < in.0 > out-07-32-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 33 -K 7 < in.0 > out-07-33-$1-$2.txt
+../src/mmsconj.exe run -m 1000 -k 3600 --maxsols 10 --prop $1 --rule $2 -N 34 -K 7 < in.0 > out-07-34-$1-$2.txt

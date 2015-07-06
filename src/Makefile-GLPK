@@ -1,0 +1,88 @@
+#
+# Makefile for MMSConjecture project.
+#
+
+
+TARGETS = 	mmsconj-glpk.exe			\
+			test-leftshift.exe				
+
+
+OBJECTS = 	MMSBranchingManager.o  		\
+			MMSImplementationGLPK.o	\
+			shiftcalculations.o
+
+
+CC 	= g++
+CXX = g++
+
+OPT = -O0 -g
+# -O7
+DEBUG =  
+# -g 
+# -static 
+WARNINGS = -Wall
+DEFINES = -D GLPK
+
+CFLAGS 		= $(OPT) $(DEBUG) $(WARNINGS) $(DEFINES)
+CXXFLAGS 	= $(OPT) $(DEBUG) $(WARNINGS) $(DEFINES)
+LFLAGS 		= $(OPT) $(DEBUG) $(WARNINGS) $(DEFINES) -lm -lgmp -lglpk
+
+TREESEARCHDIR = ../../TreeSearch
+UTILSDIR = ../../Utilities/src
+NAUTYDIR = ../../nauty
+GLPKDIR = ../../glpk/src
+
+
+INCLUDES =  -I$(TREESEARCHDIR) 	\
+			-I$(NAUTYDIR)		\
+			-I$(UTILSDIR)		\
+			-I$(GLPKDIR)
+
+
+TREESEARCHOBJS	= $(TREESEARCHDIR)/SearchManager.o
+ 
+UTILSOBJS	= 	$(UTILSDIR)/Set.o				\
+				$(UTILSDIR)/translation.o				\
+				$(UTILSDIR)/TreeSet.o				 
+				  
+LIBOBJS			= $(TREESEARCHOBJS) $(CLIQUEROBJS) $(UTILSOBJS)
+			
+			
+.SUFFIXES: .c .cpp .o .obj .exe 
+
+all: $(OBJECTS) $(TESTS) $(TARGETS)
+
+
+# The default object compiler
+.c.o: $<
+	$(CC) $(CFLAGS) $(INCLUDES) $(LIBS) -c $< -o $@
+        
+.cpp.o: $<
+	$(CXX) $(CXXFLAGS) $(INCLUDES) $(LIBS) -c $< -o $@
+        
+.cpp.exe: $< $(OBJECTS) 
+	$(CXX) $(LFLAGS)			\
+        	$(INCLUDES)	$(DEBUG)			\
+        	$(LIBOBJS) $(LIBS)				\
+        	`cat $@.objs`           		\
+            $< -o $@
+	cp $@ ../bin/
+        
+.c.exe: $< $(COBJECTS)
+	$(CC) 	$(LFLAGS)			    \
+        	$(INCLUDES)				\
+        	$(NAUTYOBJS)  $(COBJECTS) $(LIBS)		\
+            $< -o $@
+	cp $@ ../bin/
+        
+clean:
+	rm $(OBJECTS) $(TARGETS) $(TESTS)
+	
+cleanexe:
+	rm $(TARGETS)
+
+cleantest:
+	rm $(TESTS)
+
+clexe:
+	rm $(TARGETS)

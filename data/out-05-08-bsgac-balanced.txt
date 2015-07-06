@@ -1,0 +1,72 @@
+Constructing initial basis...
+Size of triangular part = 11
+glp_exact: 11 rows, 8 columns, 37 non-zeros
+GNU MP bignum library is being used
+      0:   infsum =                      3   (0)
+      8:   infsum =                      0   (0)
+*     8:   objval =       1.22222222222222   (0)
+*    12:   objval =      0.333333333333333   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 12
+glp_exact: 12 rows, 8 columns, 42 non-zeros
+GNU MP bignum library is being used
+     12:   infsum =                      3   (0)
+     20:   infsum =                      0   (0)
+*    20:   objval =       1.22222222222222   (0)
+*    23:   objval =      0.666666666666667   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 11
+glp_exact: 11 rows, 8 columns, 37 non-zeros
+GNU MP bignum library is being used
+     23:   infsum =                      3   (0)
+     31:   infsum =                      0   (0)
+*    31:   objval =       1.22222222222222   (0)
+*    35:   objval =      0.333333333333333   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 13
+glp_exact: 13 rows, 8 columns, 47 non-zeros
+GNU MP bignum library is being used
+     35:   infsum =                      3   (0)
+     45:   infsum =                      0   (0)
+*    45:   objval =                   1.25   (0)
+*    47:   objval =                      1   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 12
+glp_exact: 12 rows, 8 columns, 42 non-zeros
+GNU MP bignum library is being used
+     47:   infsum =                      3   (0)
+     55:   infsum =                      0   (0)
+*    55:   objval =       1.22222222222222   (0)
+*    58:   objval =      0.666666666666667   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 0
+S 0 1 0 
+optimal: 
+	x_{ 0} = 0.666667
+	x_{ 1} = 0.666667
+	x_{ 2} = 0.166667
+	x_{ 3} = 0.166667
+	x_{ 4} = 0.166667
+	x_{ 5} = 0.166667
+	x_{ 6} = -0.333333
+	x_{ 7} = -1.666667
+ with 27 non-negative sets (target: 35)
+
+-- removing solution at depth 0
+T SUM NUM_NODES 4
+T SUM NUM_PRUNES 3
+T SUM PRUNES_AT_0 1
+T SUM PRUNE_TIME_AT_0 0.003904
+T SUM NODES_AT_0 2
+T SUM PRUNES_AT_1 2
+T SUM PRUNE_TIME_AT_1 0.000002
+T SUM NODES_AT_1 2
+T SUM PRUNES_AT_2 0
+T SUM PRUNE_TIME_AT_2 0.000000
+T SUM PRUNE_TIME 0.003906
+T SUM SEARCH_TIME 0.004099
+

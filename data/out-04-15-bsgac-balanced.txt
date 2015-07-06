@@ -1,0 +1,631 @@
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 15 columns, 139 non-zeros
+GNU MP bignum library is being used
+      0:   infsum =                     24   (0)
+     40:   infsum =                      0   (0)
+*    40:   objval =       6.58823529411765   (0)
+*    48:   objval =        5.1304347826087   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 15 columns, 155 non-zeros
+GNU MP bignum library is being used
+     48:   infsum =                     27   (0)
+     89:   infsum =                      0   (0)
+*    89:   objval =       7.02941176470588   (0)
+*    95:   objval =       5.47368421052632   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 39
+glp_exact: 39 rows, 15 columns, 139 non-zeros
+GNU MP bignum library is being used
+     95:   infsum =                     24   (0)
+    135:   infsum =                      0   (0)
+*   135:   objval =       6.58823529411765   (0)
+*   143:   objval =        5.1304347826087   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 58
+glp_exact: 58 rows, 15 columns, 215 non-zeros
+GNU MP bignum library is being used
+    143:   infsum =                     41   (0)
+    203:   infsum =                      0   (0)
+*   203:   objval =       9.63636363636363   (0)
+*   211:   objval =                    9.5   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 15 columns, 143 non-zeros
+GNU MP bignum library is being used
+    211:   infsum =                     24   (0)
+    247:   infsum =                      0   (0)
+*   247:   objval =                      6   (0)
+*   253:   objval =        5.1304347826087   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 74
+glp_exact: 74 rows, 15 columns, 279 non-zeros
+GNU MP bignum library is being used
+    253:   infsum =                     56   (0)
+    325:   infsum =                      0   (0)
+*   325:   objval =                     36   (0)
+*   326:   objval =                     36   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 15 columns, 147 non-zeros
+GNU MP bignum library is being used
+    326:   infsum =                     24   (0)
+    367:   infsum =                      0   (0)
+*   367:   objval =       5.41860465116279   (0)
+*   370:   objval =        5.1304347826087   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 81
+glp_exact: 81 rows, 15 columns, 307 non-zeros
+GNU MP bignum library is being used
+    370:   infsum =                     62   (0)
+    435:   infsum =       31.5454545454545   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 15 columns, 155 non-zeros
+GNU MP bignum library is being used
+    435:   infsum =                     25   (0)
+    478:   infsum =                      0   (0)
+*   478:   objval =                    9.5   (0)
+*   479:   objval =                  9.125   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 79
+glp_exact: 79 rows, 15 columns, 299 non-zeros
+GNU MP bignum library is being used
+    479:   infsum =                     59   (0)
+    497:   infsum =                     58   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 15 columns, 163 non-zeros
+GNU MP bignum library is being used
+    497:   infsum =                     26   (0)
+    550:   infsum =                      0   (0)
+*   550:   objval =                  22.25   (0)
+*   556:   objval =                     16   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 59
+glp_exact: 59 rows, 15 columns, 219 non-zeros
+GNU MP bignum library is being used
+    556:   infsum =                     38   (0)
+    571:   infsum =                     38   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 15 columns, 171 non-zeros
+GNU MP bignum library is being used
+    571:   infsum =                     27   (0)
+    628:   infsum =                      0   (0)
+*   628:   objval =                     41   (0)
+*   629:   objval =                     41   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 64
+glp_exact: 64 rows, 15 columns, 239 non-zeros
+GNU MP bignum library is being used
+    629:   infsum =                     43   (0)
+    644:   infsum =                     43   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 15 columns, 179 non-zeros
+GNU MP bignum library is being used
+    644:   infsum =                     29   (0)
+    689:   infsum =       9.70588235294118   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 83
+glp_exact: 83 rows, 15 columns, 315 non-zeros
+GNU MP bignum library is being used
+    689:   infsum =                     63   (0)
+    713:   infsum =                   56.7   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 15 columns, 171 non-zeros
+GNU MP bignum library is being used
+    713:   infsum =                     28   (0)
+    763:   infsum =       6.81818181818182   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 77
+glp_exact: 77 rows, 15 columns, 291 non-zeros
+GNU MP bignum library is being used
+    763:   infsum =                     58   (0)
+    813:   infsum =                     40   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 15 columns, 163 non-zeros
+GNU MP bignum library is being used
+    813:   infsum =                     27   (0)
+    867:   infsum =                      0   (0)
+*   867:   objval =                     56   (0)
+*   869:   objval =                     56   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 85
+glp_exact: 85 rows, 15 columns, 323 non-zeros
+GNU MP bignum library is being used
+    869:   infsum =                     65   (0)
+    896:   infsum =                   57.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 15 columns, 171 non-zeros
+GNU MP bignum library is being used
+    896:   infsum =                     28   (0)
+    958:   infsum =                   3.75   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 61
+glp_exact: 61 rows, 15 columns, 227 non-zeros
+GNU MP bignum library is being used
+    958:   infsum =                     42   (0)
+   1015:   infsum =       17.7272727272727   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 15 columns, 171 non-zeros
+GNU MP bignum library is being used
+   1015:   infsum =                     29   (0)
+   1066:   infsum =                    7.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 65
+glp_exact: 65 rows, 15 columns, 243 non-zeros
+GNU MP bignum library is being used
+   1066:   infsum =                     47   (0)
+   1160:   infsum =       4.09090909090909   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 15 columns, 155 non-zeros
+GNU MP bignum library is being used
+   1160:   infsum =                     26   (0)
+   1212:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 15 columns, 179 non-zeros
+GNU MP bignum library is being used
+   1212:   infsum =                     32   (0)
+   1262:   infsum =                      0   (0)
+*  1262:   objval =                     11   (0)
+*  1267:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 15 columns, 147 non-zeros
+GNU MP bignum library is being used
+   1267:   infsum =                     25   (0)
+   1309:   infsum =                      0   (0)
+*  1309:   objval =                     11   (0)
+*  1313:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 59
+glp_exact: 59 rows, 15 columns, 219 non-zeros
+GNU MP bignum library is being used
+   1313:   infsum =                     41   (0)
+   1375:   infsum =                      0   (0)
+*  1375:   objval =                   18.5   (0)
+*  1383:   objval =                     17   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 15 columns, 151 non-zeros
+GNU MP bignum library is being used
+   1383:   infsum =                     25   (0)
+   1425:   infsum =                      0   (0)
+*  1425:   objval =                     11   (0)
+*  1429:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 67
+glp_exact: 67 rows, 15 columns, 251 non-zeros
+GNU MP bignum library is being used
+   1429:   infsum =                     48   (0)
+   1520:   infsum =                   3.75   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 15 columns, 159 non-zeros
+GNU MP bignum library is being used
+   1520:   infsum =                     26   (0)
+   1571:   infsum =                      0   (0)
+*  1571:   objval =                     11   (0)
+*  1580:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 72
+glp_exact: 72 rows, 15 columns, 271 non-zeros
+GNU MP bignum library is being used
+   1580:   infsum =                     52   (0)
+   1629:   infsum =                     30   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 15 columns, 167 non-zeros
+GNU MP bignum library is being used
+   1629:   infsum =                     27   (0)
+   1673:   infsum =       6.52173913043478   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 55
+glp_exact: 55 rows, 15 columns, 203 non-zeros
+GNU MP bignum library is being used
+   1673:   infsum =                     36   (0)
+   1718:   infsum =       9.70588235294118   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 15 columns, 167 non-zeros
+GNU MP bignum library is being used
+   1718:   infsum =                     28   (0)
+   1756:   infsum =                      0   (0)
+*  1756:   objval =                     11   (0)
+*  1761:   objval =                     11   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 65
+glp_exact: 65 rows, 15 columns, 243 non-zeros
+GNU MP bignum library is being used
+   1761:   infsum =                     45   (0)
+   1817:   infsum =       16.6666666666667   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 15 columns, 175 non-zeros
+GNU MP bignum library is being used
+   1817:   infsum =                     29   (0)
+   1862:   infsum =                    7.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 53
+glp_exact: 53 rows, 15 columns, 195 non-zeros
+GNU MP bignum library is being used
+   1862:   infsum =                     34   (0)
+   1911:   infsum =                  11.25   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 15 columns, 175 non-zeros
+GNU MP bignum library is being used
+   1911:   infsum =                     30   (0)
+   1951:   infsum =                   12.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 15 columns, 183 non-zeros
+GNU MP bignum library is being used
+   1951:   infsum =                     32   (0)
+   2012:   infsum =       4.77272727272727   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 15 columns, 159 non-zeros
+GNU MP bignum library is being used
+   2012:   infsum =                     27   (0)
+   2054:   infsum =       5.76923076923077   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 15 columns, 163 non-zeros
+GNU MP bignum library is being used
+   2054:   infsum =                     28   (0)
+   2105:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 15 columns, 155 non-zeros
+GNU MP bignum library is being used
+   2105:   infsum =                     27   (0)
+   2148:   infsum =                    7.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 15 columns, 151 non-zeros
+GNU MP bignum library is being used
+   2148:   infsum =                     26   (0)
+   2202:   infsum =                      0   (0)
+*  2202:   objval =                   7.25   (0)
+*  2206:   objval =                   7.25   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 40
+glp_exact: 40 rows, 15 columns, 143 non-zeros
+GNU MP bignum library is being used
+   2206:   infsum =                     25   (0)
+   2243:   infsum =                      0   (0)
+*  2243:   objval =                      6   (0)
+*  2254:   objval =                      6   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 15 columns, 171 non-zeros
+GNU MP bignum library is being used
+   2254:   infsum =                     30   (0)
+   2309:   infsum =                      0   (0)
+*  2309:   objval =                     31   (0)
+*  2315:   objval =                     28   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 41
+glp_exact: 41 rows, 15 columns, 147 non-zeros
+GNU MP bignum library is being used
+   2315:   infsum =                     25   (0)
+   2352:   infsum =                      0   (0)
+*  2352:   objval =                      6   (0)
+*  2363:   objval =                      6   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 15 columns, 187 non-zeros
+GNU MP bignum library is being used
+   2363:   infsum =                     33   (0)
+   2423:   infsum =                      0   (0)
+*  2423:   objval =                     28   (0)
+*  2425:   objval =                     28   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 15 columns, 151 non-zeros
+GNU MP bignum library is being used
+   2425:   infsum =                     25   (0)
+   2467:   infsum =                      0   (0)
+*  2467:   objval =                      6   (0)
+*  2469:   objval =                      6   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 15 columns, 199 non-zeros
+GNU MP bignum library is being used
+   2469:   infsum =                     35   (0)
+   2528:   infsum =       6.42857142857143   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 15 columns, 159 non-zeros
+GNU MP bignum library is being used
+   2528:   infsum =                     26   (0)
+   2577:   infsum =                      0   (0)
+*  2577:   objval =                     28   (0)
+*  2584:   objval =                     28   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 60
+glp_exact: 60 rows, 15 columns, 223 non-zeros
+GNU MP bignum library is being used
+   2584:   infsum =                     40   (0)
+   2638:   infsum =       14.2105263157895   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 15 columns, 167 non-zeros
+GNU MP bignum library is being used
+   2638:   infsum =                     27   (0)
+   2692:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 50
+glp_exact: 50 rows, 15 columns, 183 non-zeros
+GNU MP bignum library is being used
+   2692:   infsum =                     31   (0)
+   2737:   infsum =                10.3125   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 15 columns, 167 non-zeros
+GNU MP bignum library is being used
+   2737:   infsum =                     28   (0)
+   2790:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 48
+glp_exact: 48 rows, 15 columns, 175 non-zeros
+GNU MP bignum library is being used
+   2790:   infsum =                     30   (0)
+   2846:   infsum =                  6.375   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 15 columns, 159 non-zeros
+GNU MP bignum library is being used
+   2846:   infsum =                     27   (0)
+   2897:   infsum =                    7.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 15 columns, 159 non-zeros
+GNU MP bignum library is being used
+   2897:   infsum =                     27   (0)
+   2944:   infsum =                      0   (0)
+*  2944:   objval =                     26   (0)
+*  2949:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 15 columns, 151 non-zeros
+GNU MP bignum library is being used
+   2949:   infsum =                     26   (0)
+   2999:   infsum =                      0   (0)
+*  2999:   objval =                     26   (0)
+*  3017:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 15 columns, 171 non-zeros
+GNU MP bignum library is being used
+   3017:   infsum =                     29   (0)
+   3069:   infsum =                      0   (0)
+*  3069:   objval =                     26   (0)
+*  3084:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 43
+glp_exact: 43 rows, 15 columns, 155 non-zeros
+GNU MP bignum library is being used
+   3084:   infsum =                     26   (0)
+   3134:   infsum =                      0   (0)
+*  3134:   objval =                     26   (0)
+*  3152:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 49
+glp_exact: 49 rows, 15 columns, 179 non-zeros
+GNU MP bignum library is being used
+   3152:   infsum =                     30   (0)
+   3194:   infsum =                      0   (0)
+*  3194:   objval =                     26   (0)
+*  3207:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 15 columns, 159 non-zeros
+GNU MP bignum library is being used
+   3207:   infsum =                     26   (0)
+   3262:   infsum =                      0   (0)
+*  3262:   objval =                     26   (0)
+*  3278:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 15 columns, 187 non-zeros
+GNU MP bignum library is being used
+   3278:   infsum =                     31   (0)
+   3323:   infsum =                      0   (0)
+*  3323:   objval =                     26   (0)
+*  3333:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 15 columns, 163 non-zeros
+GNU MP bignum library is being used
+   3333:   infsum =                     26   (0)
+   3388:   infsum =                      0   (0)
+*  3388:   objval =                     26   (0)
+*  3404:   objval =                     26   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 54
+glp_exact: 54 rows, 15 columns, 199 non-zeros
+GNU MP bignum library is being used
+   3404:   infsum =                     33   (0)
+   3448:   infsum =                      9   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 15 columns, 171 non-zeros
+GNU MP bignum library is being used
+   3448:   infsum =                     27   (0)
+   3494:   infsum =                    7.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 51
+glp_exact: 51 rows, 15 columns, 187 non-zeros
+GNU MP bignum library is being used
+   3494:   infsum =                     31   (0)
+   3547:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 15 columns, 171 non-zeros
+GNU MP bignum library is being used
+   3547:   infsum =                     28   (0)
+   3602:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 47
+glp_exact: 47 rows, 15 columns, 171 non-zeros
+GNU MP bignum library is being used
+   3602:   infsum =                     28   (0)
+   3653:   infsum =       8.88888888888889   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 46
+glp_exact: 46 rows, 15 columns, 167 non-zeros
+GNU MP bignum library is being used
+   3653:   infsum =                     28   (0)
+   3694:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 15 columns, 163 non-zeros
+GNU MP bignum library is being used
+   3694:   infsum =                     27   (0)
+   3746:   infsum =                    7.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 45
+glp_exact: 45 rows, 15 columns, 163 non-zeros
+GNU MP bignum library is being used
+   3746:   infsum =                     28   (0)
+   3788:   infsum =       12.3913043478261   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 15 columns, 159 non-zeros
+GNU MP bignum library is being used
+   3788:   infsum =                     27   (0)
+   3837:   infsum =                    7.5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 44
+glp_exact: 44 rows, 15 columns, 159 non-zeros
+GNU MP bignum library is being used
+   3837:   infsum =                     28   (0)
+   3885:   infsum =       12.3913043478261   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 15 columns, 151 non-zeros
+GNU MP bignum library is being used
+   3885:   infsum =                     26   (0)
+   3934:   infsum =                      5   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+Constructing initial basis...
+Size of triangular part = 42
+glp_exact: 42 rows, 15 columns, 151 non-zeros
+GNU MP bignum library is being used
+   3934:   infsum =                     27   (0)
+   3981:   infsum =                     10   (0)
+PROBLEM HAS NO FEASIBLE SOLUTION
+T SUM NUM_NODES 38
+T SUM NUM_PRUNES 20
+T SUM PRUNES_AT_0 0
+T SUM PRUNE_TIME_AT_0 0.126366
+T SUM NODES_AT_0 2
+T SUM PRUNES_AT_1 1
+T SUM PRUNE_TIME_AT_1 0.248096
+T SUM NODES_AT_1 4
+T SUM PRUNES_AT_2 2
+T SUM PRUNE_TIME_AT_2 0.372503
+T SUM NODES_AT_2 6
+T SUM PRUNES_AT_3 3
+T SUM PRUNE_TIME_AT_3 0.431898
+T SUM NODES_AT_3 8
+T SUM PRUNES_AT_4 7
+T SUM PRUNE_TIME_AT_4 0.469767
+T SUM NODES_AT_4 10
+T SUM PRUNES_AT_5 5
+T SUM PRUNE_TIME_AT_5 0.203819
+T SUM NODES_AT_5 6
+T SUM PRUNES_AT_6 2
+T SUM PRUNE_TIME_AT_6 0.097997
+T SUM NODES_AT_6 2
+T SUM PRUNES_AT_7 0
+T SUM PRUNE_TIME_AT_7 0.000000
+T SUM PRUNE_TIME 1.950446
+T SUM SEARCH_TIME 2.011531
+

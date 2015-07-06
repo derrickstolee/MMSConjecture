@@ -1,0 +1,3 @@
+out
+NUM_NODES
+SEARCH_TIME

@@ -1,0 +1,59 @@
+Constructing initial basis...
+Size of triangular part = 31
+glp_exact: 31 rows, 13 columns, 109 non-zeros
+GNU MP bignum library is being used
+      0:   infsum =                     18   (0)
+     32:   infsum =                      0   (0)
+*    32:   objval =       3.79591836734694   (0)
+*    36:   objval =                      3   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 31
+glp_exact: 31 rows, 13 columns, 109 non-zeros
+GNU MP bignum library is being used
+     36:   infsum =                     18   (0)
+     68:   infsum =                      0   (0)
+*    68:   objval =       3.79591836734694   (0)
+*    72:   objval =                      3   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 34
+glp_exact: 34 rows, 13 columns, 121 non-zeros
+GNU MP bignum library is being used
+     72:   infsum =                     20   (0)
+     98:   infsum =                      0   (0)
+*    98:   objval =       3.97014925373134   (0)
+*   103:   objval =                      3   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 0
+S 0 1 0 
+optimal: 
+	x_{ 0} = 3.000000
+	x_{ 1} = 3.000000
+	x_{ 2} = 3.000000
+	x_{ 3} = 3.000000
+	x_{ 4} = 3.000000
+	x_{ 5} = 3.000000
+	x_{ 6} = 3.000000
+	x_{ 7} = 3.000000
+	x_{ 8} = 3.000000
+	x_{ 9} = 3.000000
+	x_{10} = -10.000000
+	x_{11} = -10.000000
+	x_{12} = -10.000000
+ with 210 non-negative sets (target: 220)
+
+-- removing solution at depth 0
+T SUM NUM_NODES 4
+T SUM NUM_PRUNES 3
+T SUM PRUNES_AT_0 1
+T SUM PRUNE_TIME_AT_0 0.013715
+T SUM NODES_AT_0 2
+T SUM PRUNES_AT_1 2
+T SUM PRUNE_TIME_AT_1 0.000003
+T SUM NODES_AT_1 2
+T SUM PRUNES_AT_2 0
+T SUM PRUNE_TIME_AT_2 0.000000
+T SUM PRUNE_TIME 0.013718
+T SUM SEARCH_TIME 0.018305
+

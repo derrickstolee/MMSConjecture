@@ -1,0 +1,90 @@
+#
+# Makefile for MMSConjecture project.
+#
+
+#TESTS	=	CStarTest.exe
+
+TARGETS = 	mmsconj-cplex.exe					
+
+
+OBJECTS = 	MMSBranchingManager.o  		\
+		MMSImplementationCPLEX.o 	\
+		shiftcalculations.o
+
+CC 	= gcc
+CXX = g++
+
+OPT = -O0 -g
+# -O7
+DEBUG =  
+# -g 
+# -static 
+WARNINGS = -Wall
+DEFINES = -D CPLEX
+
+CPLEX_DIR=../../cplex/
+CPLEX_INCLUDE=-I$(CPLEX_DIR)/include
+CPLEX_LIB=-L$(CPLEX_DIR)/lib/x86-64_sles10_4.1/static_pic
+CPLEX_FLAGS=-lm -pthread $(CPLEX_INCLUDE) $(CPLEX_LIB) -lcplex  
+
+CFLAGS 		= $(OPT) $(DEBUG) $(WARNINGS) $(CPLEX_INCLUDE) $(DEFINES)
+CXXFLAGS 	= $(OPT) $(DEBUG) $(WARNINGS) $(CPLEX_INCLUDE) $(DEFINES)
+LFLAGS 		= $(OPT) $(DEBUG) $(WARNINGS) $(CPLEX_FLAGS) $(DEFINES) ./libcplex123.so
+
+TREESEARCHDIR = ../../TreeSearch
+UTILSDIR = ../../Utilities/src
+NAUTYDIR = ../../nauty
+
+
+INCLUDES =  -I$(TREESEARCHDIR) 	\
+			-I$(NAUTYDIR)		\
+			-I$(UTILSDIR)		\
+
+
+
+TREESEARCHOBJS	= $(TREESEARCHDIR)/SearchManager.o
+
+UTILSOBJS	= 	$(UTILSDIR)/Set.o				\
+				$(UTILSDIR)/translation.o				\
+				$(UTILSDIR)/TreeSet.o				 
+
+LIBOBJS			= $(TREESEARCHOBJS) $(CLIQUEROBJS) $(UTILSOBJS)
+
+.SUFFIXES: .c .cpp .o .obj .exe 
+
+all: $(OBJECTS) $(TESTS) $(TARGETS)
+
+
+# The default object compiler
+.c.o: $<
+	$(CC) $(CFLAGS) $(INCLUDES) $(LIBS) -c $< -o $@
+        
+.cpp.o: $<
+	$(CXX) $(CXXFLAGS) $(INCLUDES) $(LIBS) -c $< -o $@
+        
+.cpp.exe: $< $(OBJECTS) 
+	$(CXX) $(LFLAGS)			\
+        	$(INCLUDES)	$(DEBUG)			\
+        	$(LIBOBJS) $(LIBS)				\
+        	`cat $@.objs`           		\
+            $< -o $@
+	cp $@ ../bin/
+        
+.c.exe: $< $(COBJECTS)
+	$(CC) 	$(LFLAGS)			    \
+        	$(INCLUDES)				\
+        	$(NAUTYOBJS)  $(COBJECTS) $(LIBS)		\
+            $< -o $@
+	cp $@ ../bin/
+        
+clean:
+	rm $(OBJECTS) $(TARGETS) $(TESTS)
+	
+cleanexe:
+	rm $(TARGETS)
+
+cleantest:
+	rm $(TESTS)
+
+clexe:
+	rm $(TARGETS)

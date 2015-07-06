@@ -1,0 +1,58 @@
+Constructing initial basis...
+Size of triangular part = 15
+glp_exact: 15 rows, 10 columns, 48 non-zeros
+GNU MP bignum library is being used
+      0:   infsum =                      5   (0)
+     13:   infsum =                      0   (0)
+*    13:   objval =                   2.25   (0)
+*    17:   objval =                      1   (0)
+OPTIMAL SOLUTION FOUND
+Constructing initial basis...
+Size of triangular part = 15
+glp_exact: 15 rows, 10 columns, 48 non-zeros
+GNU MP bignum library is being used
+     17:   infsum =                      5   (0)
+     30:   infsum =                      0   (0)
+*    30:   objval =                   2.25   (0)
+*    34:   objval =                      1   (0)
+OPTIMAL SOLUTION FOUND
+-- getBranchOptHalf makes this inequality infeasible both ways!
+Constructing initial basis...
+Size of triangular part = 16
+glp_exact: 16 rows, 10 columns, 52 non-zeros
+GNU MP bignum library is being used
+     34:   infsum =                      5   (0)
+     47:   infsum =                      0   (0)
+*    47:   objval =                   2.25   (0)
+*    51:   objval =                      1   (0)
+OPTIMAL SOLUTION FOUND
+-- found solution at depth 0
+S 0 1 0 
+optimal: 
+	x_{ 0} = 1.000000
+	x_{ 1} = 1.000000
+	x_{ 2} = 1.000000
+	x_{ 3} = 1.000000
+	x_{ 4} = 1.000000
+	x_{ 5} = 1.000000
+	x_{ 6} = 1.000000
+	x_{ 7} = 1.000000
+	x_{ 8} = -4.000000
+	x_{ 9} = -4.000000
+ with 70 non-negative sets (target: 84)
+
+-- getBranchOptHalf makes this inequality infeasible both ways!
+-- removing solution at depth 0
+T SUM NUM_NODES 4
+T SUM NUM_PRUNES 3
+T SUM PRUNES_AT_0 1
+T SUM PRUNE_TIME_AT_0 0.003284
+T SUM NODES_AT_0 2
+T SUM PRUNES_AT_1 2
+T SUM PRUNE_TIME_AT_1 0.000004
+T SUM NODES_AT_1 2
+T SUM PRUNES_AT_2 0
+T SUM PRUNE_TIME_AT_2 0.000000
+T SUM PRUNE_TIME 0.003288
+T SUM SEARCH_TIME 0.004336
+

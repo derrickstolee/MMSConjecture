@@ -1,0 +1,5 @@
+out
+x_
+NUM_NODES
+SEARCH_TIME
+^S\ 
