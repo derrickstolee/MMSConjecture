@@ -335,7 +335,7 @@ void MMSBranchingManager::printLPOptimal()
 void MMSBranchingManager::snapshotLP()
 {
 	/* make a snapshot of the current LP */
-	int num_before = this->stack_lp_rows.top();
+	this->stack_lp_rows.top();
 
 	this->stack_lp_rows.push(this->num_rows);
 }

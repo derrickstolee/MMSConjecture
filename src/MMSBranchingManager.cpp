@@ -1283,7 +1283,7 @@ void MMSBranchingManager::snapshotSetLabels()
 
 void MMSBranchingManager::rollbackSetLabels()
 {
-	int to_size = this->stack_set_label_sizes.top();
+	unsigned int to_size = this->stack_set_label_sizes.top();
 
 	int num_reset = 0;
 	while ( this->stack_set_labels.size() > to_size )
@@ -1933,11 +1933,9 @@ bool MMSBranchingManager::propagateGAC()
 bool MMSBranchingManager::propagatePositive()
 {
 	/* Add negative sets if their positive values become too much */
-	bool added_positive = false;
 	bool ever_added_positive = false;
 
 	int num_added = 0;
-	added_positive = false;
 
 	for ( int rank = this->max_c_star_rank - 1; rank >= this->min_c_star_rank; rank-- )
 	{
@@ -1956,7 +1954,6 @@ bool MMSBranchingManager::propagatePositive()
 				}
 
 				ever_added_positive = true;
-				added_positive = true;
 				num_added++;
 
 				if ( this->write_proof )

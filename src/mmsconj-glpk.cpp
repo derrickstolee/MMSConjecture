@@ -42,7 +42,6 @@ int main( int argc, char** argv )
 	bool strong_mode = false;
 	bool prop_pos = false;
 	bool write_proof = false;
-	bool use_right_c_star = true;
 	char branch_rule = BRANCH_BALANCED;
 	int target = 0;
 	double divisor = 2;

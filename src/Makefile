@@ -35,7 +35,7 @@ UTILSDIR = ../../Utilities/src
 NAUTYDIR = ../../nauty
 CLIQUERDIR = ../../cliquer
 CPLEXDIR = ../../cplex
-GLPKDIR = ../../glpk
+GLPKDIR = ../../glpk/src
 
 INCLUDES =  -I$(TREESEARCHDIR) 	\
 			-I$(NAUTYDIR)		\
