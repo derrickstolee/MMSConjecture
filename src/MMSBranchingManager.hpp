@@ -234,12 +234,12 @@ class MMSBranchingManager: public SearchManager
 		std::stack<int> stack_set_label_sizes;
 		std::stack<int> stack_num_in_c_star;
 
+		double* solution;
 #ifdef CPLEX
 		/**
 		 * The LP instance in terms of CPLEX
 		 */
 		int num_constraints;
-		double* solution;
 		int* isolution;
 		int num_positive;
 		int num_sure_positive;
@@ -258,7 +258,6 @@ class MMSBranchingManager: public SearchManager
 		glp_prob *lp;
 		glp_smcp* parm;
 		int num_rows;
-		double* solution;
 		std::stack<int> stack_lp_rows;
 #endif
 

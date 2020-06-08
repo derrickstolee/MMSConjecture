@@ -870,19 +870,12 @@ void MMSBranchingManager::recalculateLeftCStarInclusionExclusion()
 void MMSBranchingManager::recalculateLeftCStarIterative( int* new_set )
 {
 	/* go through our sets, join with new_set, and subtract previous left_c_star value. */
-//	printf("updating Lstar for set ");
-//	for ( int i = 0; i < this->k; i++ )
-//	{
-//		printf("%2d ", new_set[i]);
-//	}
-//	printf("\n");
 	int* set = (int*) malloc(this->k * sizeof(int));
 	int* join_set = (int*) malloc(this->k * sizeof(int));
 
 	int rank = this->min_c_star_rank;
 	lexIndexToSet(this->n, this->k, rank, set);
 
-	int j = 0;
 	do
 	{
 		if ( this->set_labels[rank] == LABEL_C_STAR )
@@ -907,7 +900,7 @@ void MMSBranchingManager::recalculateLeftCStarIterative( int* new_set )
 			        this->left_c_star[this->cur_depth_left_c_star][rank] - join_lstar;
 		}
 
-		j = getLexSuccessor(this->n, this->k, set);
+		getLexSuccessor(this->n, this->k, set);
 		rank++;
 	}
 	while ( rank < this->max_c_star_rank );
@@ -2154,7 +2147,7 @@ LONG_T MMSBranchingManager::pushTo( LONG_T child )
 				return -1;
 			}
 
-			bool result = this->doBranchlessSearch();
+			this->doBranchlessSearch();
 			this->done_branchless_or_stochastic = true;
 
 			return -1;
@@ -2166,7 +2159,7 @@ LONG_T MMSBranchingManager::pushTo( LONG_T child )
 				return -1;
 			}
 
-			bool result = this->doStochasticSearch();
+			this->doStochasticSearch();
 			this->done_branchless_or_stochastic = true;
 
 			return -1;
